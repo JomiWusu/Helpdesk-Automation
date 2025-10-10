@@ -1,0 +1,120 @@
+2025-10-10 00:07:35,681 - INFO - Connected to Jira
+2025-10-10 00:07:36,827 - INFO - 2 project members.
+2025-10-10 00:07:38,641 - INFO - Ticket Amount: 5, Unassigned Ticket Amount: 0
+2025-10-10 00:07:38,641 - CRITICAL - Main program error: module 'logging' has no attribute 'ifno'
+2025-10-10 00:08:14,866 - INFO - Connected to Jira
+2025-10-10 00:08:15,832 - INFO - 2 project members.
+2025-10-10 00:08:17,157 - INFO - Ticket Amount: 5, Unassigned Ticket Amount: 0
+2025-10-10 00:08:17,157 - INFO - No unassinged tickets found.
+2025-10-10 00:25:13,198 - INFO - Connected to Jira
+2025-10-10 00:25:14,005 - INFO - 2 project members.
+2025-10-10 00:42:08,212 - INFO - Connected to Jira
+2025-10-10 00:42:09,029 - INFO - 2 project members.
+2025-10-10 00:42:13,471 - INFO - Ticket Amount: 8, Unassigned Ticket Amount: 2
+2025-10-10 00:42:15,016 - INFO - Assigned SUP-21 to Bot Admin
+2025-10-10 00:42:16,328 - INFO - Assigned SUP-20 to Bot Admin
+2025-10-10 00:42:17,199 - INFO - Added reminder to ticket SUP-22
+2025-10-10 00:42:17,596 - INFO - Added reminder to ticket SUP-21
+2025-10-10 00:42:18,005 - INFO - Added reminder to ticket SUP-20
+2025-10-10 00:44:52,370 - INFO - Connected to Jira
+2025-10-10 00:44:53,176 - INFO - 2 project members.
+2025-10-10 00:45:13,094 - INFO - Ticket Amount: 8, Unassigned Ticket Amount: 3
+2025-10-10 00:45:46,829 - INFO - Assigned SUP-22 to Jomi
+2025-10-10 00:45:49,840 - INFO - Assigned SUP-21 to Bot Admin
+2025-10-10 00:45:52,757 - INFO - Assigned SUP-20 to Bot Admin
+2025-10-10 00:46:07,799 - INFO - Added reminder to ticket SUP-22
+2025-10-10 00:46:08,185 - INFO - Added reminder to ticket SUP-21
+2025-10-10 00:46:08,642 - INFO - Added reminder to ticket SUP-20
+2025-10-10 00:52:14,182 - INFO - Connected to Jira
+2025-10-10 00:52:15,148 - INFO - 2 project members.
+2025-10-10 00:53:23,330 - INFO - Connected to Jira
+2025-10-10 00:53:24,160 - INFO - 2 project members.
+2025-10-10 00:54:07,625 - INFO - Ticket Amount: 8, Unassigned Ticket Amount: 2
+2025-10-10 00:54:46,451 - INFO - Assigned SUP-25 to Jomi
+2025-10-10 00:54:56,832 - INFO - Assigned SUP-23 to Bot Admin
+2025-10-10 00:56:52,759 - INFO - Connected to Jira
+2025-10-10 00:56:54,189 - INFO - 2 project members.
+2025-10-10 00:56:54,906 - INFO - Ticket Amount: 0, Unassigned Ticket Amount: 0
+2025-10-10 00:56:54,906 - INFO - No unassinged tickets found.
+2025-10-10 00:57:45,282 - INFO - Connected to Jira
+2025-10-10 00:57:46,205 - INFO - 2 project members.
+2025-10-10 00:57:50,586 - INFO - Ticket Amount: 1, Unassigned Ticket Amount: 3
+2025-10-10 00:57:51,661 - INFO - Assigned SUP-28 to Jomi
+2025-10-10 00:57:52,745 - INFO - Assigned SUP-27 to Jomi
+2025-10-10 00:57:53,770 - INFO - Assigned SUP-26 to Bot Admin
+2025-10-10 00:57:54,718 - INFO - Added reminder to ticket SUP-28
+2025-10-10 00:57:55,084 - INFO - Added reminder to ticket SUP-27
+2025-10-10 00:57:55,598 - INFO - Added reminder to ticket SUP-26
+2025-10-10 01:00:19,803 - INFO - Connected to Jira
+2025-10-10 01:00:20,528 - INFO - 2 project members.
+2025-10-10 01:00:21,527 - INFO - Ticket Amount: 3, Unassigned Ticket Amount: 0
+2025-10-10 01:00:21,527 - INFO - No unassinged tickets found.
+2025-10-10 01:08:38,178 - INFO - Connected to Jira
+2025-10-10 01:08:39,057 - INFO - 2 project members.
+2025-10-10 01:08:39,946 - INFO - Ticket Amount: 3, Unassigned Ticket Amount: 0
+2025-10-10 01:08:39,946 - INFO - No unassinged tickets found.
+2025-10-10 01:09:49,728 - INFO - Connected to Jira
+2025-10-10 01:09:50,392 - INFO - 2 project members.
+2025-10-10 01:09:51,320 - INFO - Ticket Amount: 3, Unassigned Ticket Amount: 0
+2025-10-10 01:09:51,320 - INFO - No unassinged tickets found.
+2025-10-10 01:09:55,360 - ERROR - Error sending old ticket reminders: {e}
+2025-10-10 01:12:01,979 - INFO - Connected to Jira
+2025-10-10 01:12:03,104 - INFO - 2 project members.
+2025-10-10 01:12:03,923 - INFO - Ticket Amount: 3, Unassigned Ticket Amount: 0
+2025-10-10 01:12:03,923 - INFO - No unassinged tickets found.
+2025-10-10 01:12:06,482 - ERROR - Error sending old ticket reminders: time data '2025-10-10' does not match format '%Y-%m-%d %H:%M:%S.%f'
+2025-10-10 01:12:30,382 - INFO - Connected to Jira
+2025-10-10 01:12:30,937 - INFO - 2 project members.
+2025-10-10 01:12:31,754 - INFO - Ticket Amount: 3, Unassigned Ticket Amount: 0
+2025-10-10 01:12:31,754 - INFO - No unassinged tickets found.
+2025-10-10 01:16:01,273 - INFO - Connected to Jira
+2025-10-10 01:16:02,212 - INFO - 2 project members.
+2025-10-10 01:16:04,722 - INFO - Connected to Jira
+2025-10-10 01:16:05,387 - INFO - 2 project members.
+2025-10-10 01:16:06,099 - INFO - Ticket Amount: 3, Unassigned Ticket Amount: 0
+2025-10-10 01:16:06,099 - INFO - No unassinged tickets found.
+2025-10-10 01:16:15,181 - ERROR - Error sending old ticket reminders: unconverted data remains: .844-0400
+2025-10-10 01:17:18,832 - INFO - Connected to Jira
+2025-10-10 01:17:19,712 - INFO - 2 project members.
+2025-10-10 01:17:20,540 - INFO - Ticket Amount: 3, Unassigned Ticket Amount: 0
+2025-10-10 01:17:20,540 - INFO - No unassinged tickets found.
+2025-10-10 01:17:31,243 - ERROR - Error sending old ticket reminders: strptime() takes exactly 2 arguments (1 given)
+2025-10-10 01:18:03,196 - INFO - Connected to Jira
+2025-10-10 01:18:03,968 - INFO - 2 project members.
+2025-10-10 01:18:04,999 - INFO - Ticket Amount: 3, Unassigned Ticket Amount: 0
+2025-10-10 01:18:04,999 - INFO - No unassinged tickets found.
+2025-10-10 01:19:18,247 - INFO - Connected to Jira
+2025-10-10 01:19:19,141 - INFO - 2 project members.
+2025-10-10 01:19:19,949 - INFO - Ticket Amount: 3, Unassigned Ticket Amount: 0
+2025-10-10 01:19:19,949 - INFO - No unassinged tickets found.
+2025-10-10 01:19:21,161 - ERROR - Error sending old ticket reminders: time data '2025-10-10T00:57:53' does not match format '%Y-%m-%d %H:%M:%S.%f'
+2025-10-10 01:19:24,648 - INFO - Connected to Jira
+2025-10-10 01:19:25,482 - INFO - 2 project members.
+2025-10-10 01:19:26,366 - INFO - Ticket Amount: 3, Unassigned Ticket Amount: 0
+2025-10-10 01:19:26,366 - INFO - No unassinged tickets found.
+2025-10-10 01:19:27,541 - ERROR - Error sending old ticket reminders: time data '2025-10-10T00:57:53' does not match format '%Y-%m-%d %H:%M:%S.%f'
+2025-10-10 01:19:41,066 - INFO - Connected to Jira
+2025-10-10 01:19:41,863 - INFO - 2 project members.
+2025-10-10 01:19:42,629 - INFO - Ticket Amount: 3, Unassigned Ticket Amount: 0
+2025-10-10 01:19:42,629 - INFO - No unassinged tickets found.
+2025-10-10 01:20:03,024 - INFO - Connected to Jira
+2025-10-10 01:20:03,692 - INFO - 2 project members.
+2025-10-10 01:20:04,751 - INFO - Ticket Amount: 3, Unassigned Ticket Amount: 0
+2025-10-10 01:20:04,751 - INFO - No unassinged tickets found.
+2025-10-10 01:20:44,760 - INFO - Connected to Jira
+2025-10-10 01:20:45,442 - INFO - 2 project members.
+2025-10-10 01:20:46,176 - INFO - Ticket Amount: 3, Unassigned Ticket Amount: 0
+2025-10-10 01:20:46,176 - INFO - No unassinged tickets found.
+2025-10-10 01:21:47,213 - INFO - Connected to Jira
+2025-10-10 01:21:48,330 - INFO - 2 project members.
+2025-10-10 01:21:49,253 - INFO - Ticket Amount: 3, Unassigned Ticket Amount: 0
+2025-10-10 01:21:49,253 - INFO - No unassinged tickets found.
+2025-10-10 01:23:15,526 - INFO - Connected to Jira
+2025-10-10 01:23:16,221 - INFO - 2 project members.
+2025-10-10 01:23:17,068 - INFO - Ticket Amount: 3, Unassigned Ticket Amount: 0
+2025-10-10 01:23:17,068 - INFO - No unassinged tickets found.
+2025-10-10 01:23:37,864 - ERROR - Error sending old ticket reminders: 'str' object cannot be interpreted as an integer
+2025-10-10 01:25:25,771 - INFO - Connected to Jira
+2025-10-10 01:25:26,692 - INFO - 2 project members.
+2025-10-10 01:25:27,480 - INFO - Ticket Amount: 3, Unassigned Ticket Amount: 0
+2025-10-10 01:25:27,481 - INFO - No unassinged tickets found.
