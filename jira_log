@@ -118,3 +118,35 @@
 2025-10-10 01:25:26,692 - INFO - 2 project members.
 2025-10-10 01:25:27,480 - INFO - Ticket Amount: 3, Unassigned Ticket Amount: 0
 2025-10-10 01:25:27,481 - INFO - No unassinged tickets found.
+2025-10-10 20:38:00,058 - INFO - Connected to Jira
+2025-10-10 20:38:00,813 - INFO - 2 project members.
+2025-10-10 20:38:04,907 - INFO - Ticket Amount: 2, Unassigned Ticket Amount: 2
+2025-10-10 20:38:06,135 - INFO - Assigned SUP-30 to Jomi
+2025-10-10 20:38:07,185 - INFO - Assigned SUP-29 to Jomi
+2025-10-10 20:42:01,334 - INFO - Connected to Jira
+2025-10-10 20:42:02,276 - INFO - 2 project members.
+2025-10-10 20:42:54,028 - INFO - Ticket Amount: 3, Unassigned Ticket Amount: 3
+2025-10-10 20:44:03,266 - INFO - Connected to Jira
+2025-10-10 20:44:03,953 - INFO - 2 project members.
+2025-10-10 20:44:04,829 - INFO - Ticket Amount: 3, Unassigned Ticket Amount: 3
+2025-10-10 20:44:05,877 - INFO - Assigned SUP-34 to Jomi
+2025-10-10 20:44:07,207 - INFO - Assigned SUP-33 to Bot Admin
+2025-10-10 20:44:08,259 - INFO - Assigned SUP-32 to Bot Admin
+2025-10-10 21:02:08,221 - INFO - Connected to Jira
+2025-10-10 21:02:09,144 - INFO - 2 project members.
+2025-10-10 21:02:10,177 - INFO - Ticket Amount: 3, Unassigned Ticket Amount: 0
+2025-10-10 21:02:10,177 - INFO - No unassinged tickets found.
+2025-10-10 21:02:11,090 - INFO - Added reminder to ticket SUP-34
+2025-10-10 21:02:11,512 - INFO - Added reminder to ticket SUP-33
+2025-10-10 21:02:11,886 - INFO - Added reminder to ticket SUP-32
+2025-10-11 19:26:25,507 - INFO - Connected to Jira
+2025-10-11 19:26:26,218 - INFO - 2 project members.
+2025-10-11 19:26:31,366 - INFO - Ticket Amount: 3, Unassigned Ticket Amount: 0
+2025-10-11 19:26:32,116 - INFO - No unassinged tickets found.
+2025-10-11 19:27:35,262 - ERROR - Error sending old ticket reminders: (534, b'5.7.9 Application-specific password required. For more information, go to\n5.7.9  https://support.google.com/mail/?p=InvalidSecondFactor 00721157ae682-7812b43d3bfsm426247b3.53 - gsmtp')
+2025-10-11 19:31:02,124 - INFO - Connected to Jira
+2025-10-11 19:31:02,906 - INFO - 2 project members.
+2025-10-11 19:31:05,901 - INFO - Ticket Amount: 3, Unassigned Ticket Amount: 0
+2025-10-11 19:31:07,018 - INFO - No unassinged tickets found.
+2025-10-11 19:31:30,647 - INFO - Sent email/added reminder to ticketSUP-34
+2025-10-11 19:31:34,710 - ERROR - Error sending old ticket reminders: <class 'jira.resources.User'> object has no attribute 'emailAddress' ('User' object is not subscriptable)
