@@ -495,3 +495,65 @@
 2025-10-24 18:05:11,438 - INFO - No unassinged tickets found.
 2025-10-24 18:05:11,438 - INFO - Generating Weekly Report
 2025-10-24 18:05:12,876 - INFO - Sent weekly email report
+2025-10-24 20:43:14,556 - INFO - Connected to Jira
+2025-10-24 20:43:15,502 - INFO - 2 project members.
+2025-10-24 20:43:21,644 - INFO - Ticket Amount: 9, Unassigned Ticket Amount: 0
+2025-10-24 20:43:21,644 - INFO - No unassinged tickets found.
+2025-10-24 20:43:21,644 - INFO - Generating Weekly Report
+2025-10-24 20:43:22,879 - INFO - Sent weekly email report
+2025-10-24 20:44:30,111 - INFO - Connected to Jira
+2025-10-24 20:44:31,030 - INFO - 2 project members.
+2025-10-24 20:44:37,019 - INFO - Ticket Amount: 9, Unassigned Ticket Amount: 0
+2025-10-24 20:44:37,019 - INFO - No unassinged tickets found.
+2025-10-24 20:44:37,019 - INFO - Generating Weekly Report
+2025-10-24 20:44:38,314 - INFO - Sent weekly email report
+2025-10-24 20:52:17,759 - INFO - Connected to Jira
+2025-10-24 20:52:18,653 - INFO - 2 project members.
+2025-10-24 20:52:24,688 - INFO - Ticket Amount: 9, Unassigned Ticket Amount: 0
+2025-10-24 20:52:24,689 - INFO - No unassinged tickets found.
+2025-10-24 20:52:24,689 - INFO - Generating Weekly Report
+2025-10-24 20:52:26,112 - INFO - Sent weekly email report
+2025-10-24 22:44:19,902 - CRITICAL - Main program error: name 'jira_connect' is not defined
+2025-10-24 22:44:31,964 - CRITICAL - Main program error: name 'jira_connect' is not defined
+2025-10-24 22:58:20,116 - INFO - Connected to Jira
+2025-10-24 22:58:20,394 - INFO - User jomi found email - wusujomi1@gmail.com
+2025-10-24 22:58:20,396 - INFO - User bot admin found email - wusujomi2@gmail.com
+2025-10-24 22:58:20,397 - INFO - 0 project members.
+2025-10-24 23:02:30,677 - INFO - Connected to Jira
+2025-10-24 23:02:30,928 - INFO - 2 project members.
+2025-10-25 00:19:46,774 - INFO - Connected to Jira
+2025-10-25 00:19:47,051 - INFO - 2 project members.
+2025-10-25 00:20:04,662 - INFO - Connected to Jira
+2025-10-25 00:20:04,865 - INFO - 2 project members.
+2025-10-25 00:20:37,943 - INFO - Connected to Jira
+2025-10-25 00:20:38,146 - INFO - 2 project members.
+2025-10-25 00:25:31,326 - INFO - Connected to Jira
+2025-10-25 00:25:31,602 - INFO - 2 project members.
+2025-10-25 00:25:34,264 - ERROR - Error gathering tickets 'jiraDash' object has no attribute 'jira'
+2025-10-25 00:28:25,213 - INFO - Connected to Jira
+2025-10-25 00:28:25,510 - INFO - 2 project members.
+2025-10-25 00:28:27,255 - ERROR - Error gathering tickets 'jiraDash' object has no attribute 'jira'
+2025-10-25 00:30:43,195 - INFO - Connected to Jira
+2025-10-25 00:30:43,481 - INFO - 2 project members.
+2025-10-25 00:30:45,691 - INFO - Total Tickets - 9
+
+2025-10-25 00:30:45,694 - INFO - Unassigned Tickets - 0
+
+2025-10-25 00:30:45,697 - INFO - Assigned Tickets - 0
+2025-10-25 00:30:45,700 - INFO - Closed Tickets - 0
+2025-10-25 00:31:18,436 - INFO - Total Tickets - 9
+
+2025-10-25 00:31:18,438 - INFO - Unassigned Tickets - 0
+
+2025-10-25 00:31:18,443 - INFO - Assigned Tickets - 0
+2025-10-25 00:31:18,448 - INFO - Closed Tickets - 0
+2025-10-25 00:31:20,708 - INFO - Connected to Jira
+2025-10-25 00:31:20,925 - INFO - 2 project members.
+2025-10-25 00:31:24,199 - INFO - Total Tickets - 9
+2025-10-25 00:31:24,201 - INFO - Unassigned Tickets - 0
+2025-10-25 00:31:24,207 - INFO - Assigned Tickets - 0
+2025-10-25 00:31:24,208 - INFO - Closed Tickets - 0
+2025-10-25 00:45:29,792 - INFO - Connected to Jira
+2025-10-25 00:45:29,975 - INFO - 2 project members.
+2025-10-25 00:45:38,450 - INFO - Connected to Jira
+2025-10-25 00:45:38,702 - INFO - 2 project members.
