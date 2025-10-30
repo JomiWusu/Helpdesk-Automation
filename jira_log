@@ -557,3 +557,546 @@
 2025-10-25 00:45:29,975 - INFO - 2 project members.
 2025-10-25 00:45:38,450 - INFO - Connected to Jira
 2025-10-25 00:45:38,702 - INFO - 2 project members.
+2025-10-29 17:13:09,970 - INFO - Connected to Jira
+2025-10-29 17:13:10,394 - INFO - 2 project members.
+2025-10-29 17:13:30,175 - INFO - Total Tickets - 9
+2025-10-29 17:13:30,181 - INFO - Unassigned Tickets - 0
+2025-10-29 17:13:30,183 - INFO - Assigned Tickets - 9
+2025-10-29 17:13:30,186 - INFO - Closed Tickets - 0
+2025-10-29 17:30:51,342 - CRITICAL - Main program error: name 'jira_connect' is not defined
+2025-10-29 17:30:55,779 - INFO - Connected to Jira
+2025-10-29 17:30:56,041 - INFO - 2 project members.
+2025-10-29 17:31:05,500 - INFO - Total Tickets - 9
+2025-10-29 17:31:05,503 - INFO - Unassigned Tickets - 0
+2025-10-29 17:31:05,509 - INFO - Assigned Tickets - 9
+2025-10-29 17:31:05,514 - ERROR - Error gathering tickets object of type 'method' has no len()
+2025-10-29 17:38:48,921 - CRITICAL - Main program error: name 'jira_connect' is not defined
+2025-10-29 17:38:49,785 - INFO - Connected to Jira
+2025-10-29 17:38:50,094 - INFO - 2 project members.
+2025-10-29 17:38:50,097 - INFO - Started monitoring for new tickets
+2025-10-29 17:38:51,856 - INFO - Total Tickets - 9
+2025-10-29 17:38:51,857 - INFO - Unassigned Tickets - 0
+2025-10-29 17:38:51,860 - INFO - Assigned Tickets - 9
+2025-10-29 17:38:51,861 - ERROR - Error gathering tickets object of type 'method' has no len()
+2025-10-29 17:38:51,865 - INFO - No unassinged tickets found.
+2025-10-29 17:39:37,531 - CRITICAL - Main program error: name 'jira_connect' is not defined
+2025-10-29 17:39:38,079 - INFO - Connected to Jira
+2025-10-29 17:39:38,314 - INFO - 2 project members.
+2025-10-29 17:39:38,316 - INFO - Started monitoring for new tickets
+2025-10-29 17:39:39,889 - INFO - Total Tickets - 9
+2025-10-29 17:39:39,892 - INFO - Unassigned Tickets - 0
+2025-10-29 17:39:39,894 - INFO - Assigned Tickets - 9
+2025-10-29 17:39:39,895 - INFO - Closed Tickets - 0
+2025-10-29 17:39:39,897 - INFO - No unassinged tickets found.
+2025-10-29 17:41:37,215 - INFO - Connected to Jira
+2025-10-29 17:41:37,582 - INFO - 2 project members.
+2025-10-29 17:41:37,583 - INFO - Started monitoring for new tickets
+2025-10-29 17:41:39,415 - INFO - Total Tickets - 9
+2025-10-29 17:41:39,419 - INFO - Unassigned Tickets - 1
+2025-10-29 17:41:39,423 - INFO - Assigned Tickets - 8
+2025-10-29 17:41:39,427 - INFO - Closed Tickets - 0
+2025-10-29 17:43:16,027 - INFO - Connected to Jira
+2025-10-29 17:43:16,325 - INFO - 2 project members.
+2025-10-29 17:43:16,326 - INFO - Started monitoring for new tickets
+2025-10-29 17:43:18,272 - INFO - Total Tickets - 9
+2025-10-29 17:43:18,274 - INFO - Unassigned Tickets - 1
+2025-10-29 17:43:18,275 - INFO - Assigned Tickets - 8
+2025-10-29 17:43:18,276 - INFO - Closed Tickets - 0
+2025-10-29 17:43:35,898 - INFO - Connected to Jira
+2025-10-29 17:43:36,204 - INFO - 2 project members.
+2025-10-29 17:43:36,205 - INFO - Started monitoring for new tickets
+2025-10-29 17:43:37,884 - INFO - Total Tickets - 9
+2025-10-29 17:43:37,886 - INFO - Unassigned Tickets - 1
+2025-10-29 17:43:37,887 - INFO - Assigned Tickets - 8
+2025-10-29 17:43:37,889 - INFO - Closed Tickets - 0
+2025-10-29 17:44:57,411 - INFO - Connected to Jira
+2025-10-29 17:44:57,717 - INFO - 2 project members.
+2025-10-29 17:44:58,439 - INFO - Started monitoring for new tickets
+2025-10-29 17:45:02,119 - INFO - Total Tickets - 9
+2025-10-29 17:45:02,120 - INFO - Unassigned Tickets - 1
+2025-10-29 17:45:02,122 - INFO - Assigned Tickets - 8
+2025-10-29 17:45:02,123 - INFO - Closed Tickets - 0
+2025-10-29 17:46:11,479 - INFO - Assigned SUP-34 to Bot Admin
+2025-10-29 17:46:33,364 - INFO - Connected to Jira
+2025-10-29 17:46:33,628 - INFO - 2 project members.
+2025-10-29 17:46:33,630 - INFO - Started monitoring for new tickets
+2025-10-29 17:46:35,304 - INFO - Total Tickets - 9
+2025-10-29 17:46:35,305 - INFO - Unassigned Tickets - 0
+2025-10-29 17:46:35,306 - INFO - Assigned Tickets - 9
+2025-10-29 17:46:35,308 - INFO - Closed Tickets - 0
+2025-10-29 17:46:35,309 - INFO - No unassinged tickets found.
+2025-10-29 17:57:45,191 - INFO - Connected to Jira
+2025-10-29 17:57:45,524 - INFO - 2 project members.
+2025-10-29 17:57:45,525 - INFO - Started monitoring for new tickets
+2025-10-29 17:57:47,258 - INFO - Total Tickets - 9
+2025-10-29 17:57:47,259 - INFO - Unassigned Tickets - 0
+2025-10-29 17:57:47,260 - INFO - Assigned Tickets - 9
+2025-10-29 17:57:47,262 - INFO - Closed Tickets - 0
+2025-10-29 17:57:47,263 - INFO - No unassinged tickets found.
+2025-10-29 17:58:19,419 - INFO - Connected to Jira
+2025-10-29 17:58:19,632 - INFO - 2 project members.
+2025-10-29 17:58:19,634 - INFO - Started monitoring for new tickets
+2025-10-29 17:58:21,436 - INFO - Total Tickets - 9
+2025-10-29 17:58:21,437 - INFO - Unassigned Tickets - 0
+2025-10-29 17:58:21,439 - INFO - Assigned Tickets - 9
+2025-10-29 17:58:21,441 - INFO - Closed Tickets - 0
+2025-10-29 17:58:21,443 - INFO - No unassinged tickets found.
+2025-10-29 17:59:00,073 - INFO - Connected to Jira
+2025-10-29 17:59:00,364 - INFO - 2 project members.
+2025-10-29 17:59:00,365 - INFO - Started monitoring for new tickets
+2025-10-29 17:59:02,149 - INFO - Total Tickets - 9
+2025-10-29 17:59:02,150 - INFO - Unassigned Tickets - 1
+2025-10-29 17:59:02,151 - INFO - Assigned Tickets - 8
+2025-10-29 17:59:02,153 - INFO - Closed Tickets - 0
+2025-10-29 17:59:03,591 - INFO - Assigned SUP-34 to Bot Admin
+2025-10-29 17:59:17,992 - INFO - Total Tickets - 9
+2025-10-29 17:59:17,997 - INFO - Unassigned Tickets - 0
+2025-10-29 17:59:18,000 - INFO - Assigned Tickets - 9
+2025-10-29 17:59:18,007 - INFO - Closed Tickets - 0
+2025-10-29 18:22:29,391 - INFO - Connected to Jira
+2025-10-29 18:22:29,632 - INFO - 2 project members.
+2025-10-29 18:22:29,633 - INFO - Started monitoring for new tickets
+2025-10-29 18:22:31,329 - INFO - Total Tickets - 9
+2025-10-29 18:22:31,330 - INFO - Unassigned Tickets - 0
+2025-10-29 18:22:31,332 - INFO - Assigned Tickets - 9
+2025-10-29 18:22:31,334 - INFO - Closed Tickets - 0
+2025-10-29 18:22:31,336 - INFO - No unassinged tickets found.
+2025-10-29 18:23:31,359 - INFO - Started monitoring for new tickets
+2025-10-29 18:23:32,638 - INFO - Total Tickets - 9
+2025-10-29 18:23:32,643 - INFO - Unassigned Tickets - 0
+2025-10-29 18:23:32,647 - INFO - Assigned Tickets - 9
+2025-10-29 18:23:32,652 - INFO - Closed Tickets - 0
+2025-10-29 18:23:32,656 - INFO - No unassinged tickets found.
+2025-10-29 18:24:32,680 - INFO - Started monitoring for new tickets
+2025-10-29 18:24:34,094 - INFO - Total Tickets - 9
+2025-10-29 18:24:34,100 - INFO - Unassigned Tickets - 2
+2025-10-29 18:24:34,105 - INFO - Assigned Tickets - 6
+2025-10-29 18:24:34,111 - INFO - Closed Tickets - 0
+2025-10-29 18:24:35,440 - INFO - Assigned SUP-34 to Jomi
+2025-10-29 18:24:36,868 - INFO - Assigned SUP-33 to Jomi
+2025-10-29 18:25:36,894 - INFO - Started monitoring for new tickets
+2025-10-29 18:25:38,378 - INFO - Total Tickets - 9
+2025-10-29 18:25:38,388 - INFO - Unassigned Tickets - 3
+2025-10-29 18:25:38,393 - INFO - Assigned Tickets - 5
+2025-10-29 18:25:38,405 - INFO - Closed Tickets - 0
+2025-10-29 18:25:39,921 - INFO - Assigned SUP-38 to Bot Admin
+2025-10-29 18:25:41,042 - INFO - Assigned SUP-37 to Bot Admin
+2025-10-29 18:25:42,079 - INFO - Assigned SUP-36 to Bot Admin
+2025-10-29 18:26:42,108 - INFO - Started monitoring for new tickets
+2025-10-29 18:26:43,200 - INFO - Total Tickets - 9
+2025-10-29 18:26:43,205 - INFO - Unassigned Tickets - 0
+2025-10-29 18:26:43,213 - INFO - Assigned Tickets - 8
+2025-10-29 18:26:43,224 - INFO - Closed Tickets - 0
+2025-10-29 18:26:43,231 - INFO - No unassinged tickets found.
+2025-10-29 18:27:43,258 - INFO - Started monitoring for new tickets
+2025-10-29 18:27:44,518 - INFO - Total Tickets - 9
+2025-10-29 18:27:44,527 - INFO - Unassigned Tickets - 0
+2025-10-29 18:27:44,534 - INFO - Assigned Tickets - 8
+2025-10-29 18:27:44,544 - INFO - Closed Tickets - 0
+2025-10-29 18:27:44,552 - INFO - No unassinged tickets found.
+2025-10-29 18:28:44,581 - INFO - Started monitoring for new tickets
+2025-10-29 18:28:45,774 - INFO - Total Tickets - 9
+2025-10-29 18:28:45,779 - INFO - Unassigned Tickets - 0
+2025-10-29 18:28:45,790 - INFO - Assigned Tickets - 8
+2025-10-29 18:28:45,807 - INFO - Closed Tickets - 0
+2025-10-29 18:28:45,817 - INFO - No unassinged tickets found.
+2025-10-29 18:29:45,843 - INFO - Started monitoring for new tickets
+2025-10-29 18:29:47,230 - INFO - Total Tickets - 9
+2025-10-29 18:29:47,244 - INFO - Unassigned Tickets - 0
+2025-10-29 18:29:47,246 - INFO - Assigned Tickets - 8
+2025-10-29 18:29:47,268 - INFO - Closed Tickets - 0
+2025-10-29 18:29:47,275 - INFO - No unassinged tickets found.
+2025-10-29 18:30:47,308 - INFO - Started monitoring for new tickets
+2025-10-29 18:30:48,637 - INFO - Total Tickets - 9
+2025-10-29 18:30:48,644 - INFO - Unassigned Tickets - 0
+2025-10-29 18:30:48,663 - INFO - Assigned Tickets - 8
+2025-10-29 18:30:48,671 - INFO - Closed Tickets - 0
+2025-10-29 18:30:48,686 - INFO - No unassinged tickets found.
+2025-10-29 18:31:48,713 - INFO - Started monitoring for new tickets
+2025-10-29 18:31:50,294 - INFO - Total Tickets - 9
+2025-10-29 18:31:50,302 - INFO - Unassigned Tickets - 0
+2025-10-29 18:31:50,306 - INFO - Assigned Tickets - 8
+2025-10-29 18:31:50,318 - INFO - Closed Tickets - 0
+2025-10-29 18:31:50,326 - INFO - No unassinged tickets found.
+2025-10-29 18:32:50,353 - INFO - Started monitoring for new tickets
+2025-10-29 18:32:51,663 - INFO - Total Tickets - 9
+2025-10-29 18:32:51,670 - INFO - Unassigned Tickets - 0
+2025-10-29 18:32:51,678 - INFO - Assigned Tickets - 8
+2025-10-29 18:32:51,685 - INFO - Closed Tickets - 0
+2025-10-29 18:32:51,692 - INFO - No unassinged tickets found.
+2025-10-29 18:33:51,720 - INFO - Started monitoring for new tickets
+2025-10-29 18:33:52,957 - INFO - Total Tickets - 9
+2025-10-29 18:33:52,962 - INFO - Unassigned Tickets - 0
+2025-10-29 18:33:52,971 - INFO - Assigned Tickets - 8
+2025-10-29 18:33:52,979 - INFO - Closed Tickets - 0
+2025-10-29 18:33:52,988 - INFO - No unassinged tickets found.
+2025-10-29 18:34:53,014 - INFO - Started monitoring for new tickets
+2025-10-29 18:34:54,172 - INFO - Total Tickets - 9
+2025-10-29 18:34:54,179 - INFO - Unassigned Tickets - 0
+2025-10-29 18:34:54,188 - INFO - Assigned Tickets - 8
+2025-10-29 18:34:54,192 - INFO - Closed Tickets - 0
+2025-10-29 18:34:54,201 - INFO - No unassinged tickets found.
+2025-10-29 18:34:55,785 - INFO - Connected to Jira
+2025-10-29 18:34:56,042 - INFO - 2 project members.
+2025-10-29 18:34:56,044 - INFO - Started monitoring for new tickets
+2025-10-29 18:34:57,562 - INFO - Total Tickets - 9
+2025-10-29 18:34:57,564 - INFO - Unassigned Tickets - 0
+2025-10-29 18:34:57,565 - INFO - Assigned Tickets - 8
+2025-10-29 18:34:57,567 - INFO - Closed Tickets - 0
+2025-10-29 18:34:57,568 - INFO - No unassinged tickets found.
+2025-10-29 18:35:09,985 - INFO - Connected to Jira
+2025-10-29 18:35:10,194 - INFO - 2 project members.
+2025-10-29 18:35:10,195 - INFO - Started monitoring for new tickets
+2025-10-29 18:35:11,632 - INFO - Total Tickets - 9
+2025-10-29 18:35:11,633 - INFO - Unassigned Tickets - 0
+2025-10-29 18:35:11,635 - INFO - Assigned Tickets - 8
+2025-10-29 18:35:11,636 - INFO - Closed Tickets - 0
+2025-10-29 18:35:11,637 - INFO - No unassinged tickets found.
+2025-10-29 18:35:21,466 - ERROR - Error closing resolved tickets: jiraDash.send_email() takes 3 positional arguments but 4 were given
+2025-10-29 18:36:11,658 - INFO - Started monitoring for new tickets
+2025-10-29 18:36:12,794 - INFO - Total Tickets - 9
+2025-10-29 18:36:12,795 - INFO - Unassigned Tickets - 0
+2025-10-29 18:36:12,797 - INFO - Assigned Tickets - 8
+2025-10-29 18:36:12,798 - INFO - Closed Tickets - 0
+2025-10-29 18:36:12,800 - INFO - No unassinged tickets found.
+2025-10-29 18:37:12,821 - INFO - Started monitoring for new tickets
+2025-10-29 18:37:14,015 - INFO - Total Tickets - 9
+2025-10-29 18:37:14,017 - INFO - Unassigned Tickets - 0
+2025-10-29 18:37:14,019 - INFO - Assigned Tickets - 8
+2025-10-29 18:37:14,020 - INFO - Closed Tickets - 0
+2025-10-29 18:37:14,022 - INFO - No unassinged tickets found.
+2025-10-29 18:38:14,042 - INFO - Started monitoring for new tickets
+2025-10-29 18:38:15,365 - INFO - Total Tickets - 9
+2025-10-29 18:38:15,367 - INFO - Unassigned Tickets - 0
+2025-10-29 18:38:15,369 - INFO - Assigned Tickets - 8
+2025-10-29 18:38:15,371 - INFO - Closed Tickets - 0
+2025-10-29 18:38:15,374 - INFO - No unassinged tickets found.
+2025-10-29 18:38:34,317 - INFO - Connected to Jira
+2025-10-29 18:38:34,503 - INFO - 2 project members.
+2025-10-29 18:38:34,506 - INFO - Started monitoring for new tickets
+2025-10-29 18:38:35,902 - INFO - Total Tickets - 9
+2025-10-29 18:38:35,904 - INFO - Unassigned Tickets - 0
+2025-10-29 18:38:35,905 - INFO - Assigned Tickets - 8
+2025-10-29 18:38:35,906 - INFO - Closed Tickets - 0
+2025-10-29 18:38:35,907 - INFO - No unassinged tickets found.
+2025-10-29 18:38:37,231 - ERROR - Error closing resolved tickets: jiraDash.send_email() takes 3 positional arguments but 4 were given
+2025-10-29 18:39:18,503 - INFO - Connected to Jira
+2025-10-29 18:39:18,780 - INFO - 2 project members.
+2025-10-29 18:39:18,781 - INFO - Started monitoring for new tickets
+2025-10-29 18:39:20,296 - INFO - Total Tickets - 9
+2025-10-29 18:39:20,297 - INFO - Unassigned Tickets - 0
+2025-10-29 18:39:20,300 - INFO - Assigned Tickets - 8
+2025-10-29 18:39:20,302 - INFO - Closed Tickets - 0
+2025-10-29 18:39:20,305 - INFO - No unassinged tickets found.
+2025-10-29 18:40:32,740 - INFO - Started monitoring for new tickets
+2025-10-29 18:40:48,459 - INFO - Total Tickets - 9
+2025-10-29 18:40:48,464 - INFO - Unassigned Tickets - 0
+2025-10-29 18:40:48,469 - INFO - Assigned Tickets - 8
+2025-10-29 18:40:49,285 - INFO - Closed Tickets - 0
+2025-10-29 18:40:49,293 - INFO - No unassinged tickets found.
+2025-10-29 18:44:25,523 - INFO - Connected to Jira
+2025-10-29 18:44:25,752 - INFO - 2 project members.
+2025-10-29 18:44:25,753 - INFO - Started monitoring for new tickets
+2025-10-29 18:44:27,252 - INFO - Total Tickets - 9
+2025-10-29 18:44:27,253 - INFO - Unassigned Tickets - 0
+2025-10-29 18:44:27,255 - INFO - Assigned Tickets - 8
+2025-10-29 18:44:27,256 - INFO - Closed Tickets - 0
+2025-10-29 18:44:27,257 - INFO - No unassinged tickets found.
+2025-10-29 18:44:32,041 - INFO - Sent Email (Closed ticket left resolved for more than 2 days)
+2025-10-29 18:45:27,276 - INFO - Started monitoring for new tickets
+2025-10-29 18:45:28,674 - INFO - Total Tickets - 9
+2025-10-29 18:45:28,679 - INFO - Unassigned Tickets - 0
+2025-10-29 18:45:28,684 - INFO - Assigned Tickets - 8
+2025-10-29 18:45:28,689 - INFO - Closed Tickets - 0
+2025-10-29 18:45:28,693 - INFO - No unassinged tickets found.
+2025-10-29 18:46:28,718 - INFO - Started monitoring for new tickets
+2025-10-29 18:46:29,953 - INFO - Total Tickets - 9
+2025-10-29 18:46:29,961 - INFO - Unassigned Tickets - 0
+2025-10-29 18:46:29,966 - INFO - Assigned Tickets - 8
+2025-10-29 18:46:29,971 - INFO - Closed Tickets - 0
+2025-10-29 18:46:29,980 - INFO - No unassinged tickets found.
+2025-10-29 18:47:30,004 - INFO - Started monitoring for new tickets
+2025-10-29 18:47:31,237 - INFO - Total Tickets - 9
+2025-10-29 18:47:31,245 - INFO - Unassigned Tickets - 0
+2025-10-29 18:47:31,252 - INFO - Assigned Tickets - 8
+2025-10-29 18:47:31,263 - INFO - Closed Tickets - 0
+2025-10-29 18:47:31,271 - INFO - No unassinged tickets found.
+2025-10-29 18:48:31,302 - INFO - Started monitoring for new tickets
+2025-10-29 18:48:32,452 - INFO - Total Tickets - 9
+2025-10-29 18:48:32,460 - INFO - Unassigned Tickets - 0
+2025-10-29 18:48:32,477 - INFO - Assigned Tickets - 8
+2025-10-29 18:48:32,491 - INFO - Closed Tickets - 0
+2025-10-29 18:48:32,498 - INFO - No unassinged tickets found.
+2025-10-29 18:49:32,529 - INFO - Started monitoring for new tickets
+2025-10-29 18:49:33,752 - INFO - Total Tickets - 9
+2025-10-29 18:49:33,761 - INFO - Unassigned Tickets - 0
+2025-10-29 18:49:33,769 - INFO - Assigned Tickets - 8
+2025-10-29 18:49:33,777 - INFO - Closed Tickets - 0
+2025-10-29 18:49:33,786 - INFO - No unassinged tickets found.
+2025-10-29 18:50:33,816 - INFO - Started monitoring for new tickets
+2025-10-29 18:50:35,076 - INFO - Total Tickets - 9
+2025-10-29 18:50:35,085 - INFO - Unassigned Tickets - 0
+2025-10-29 18:50:35,094 - INFO - Assigned Tickets - 8
+2025-10-29 18:50:35,102 - INFO - Closed Tickets - 0
+2025-10-29 18:50:35,109 - INFO - No unassinged tickets found.
+2025-10-29 18:51:35,134 - INFO - Started monitoring for new tickets
+2025-10-29 18:51:36,459 - INFO - Total Tickets - 9
+2025-10-29 18:51:36,467 - INFO - Unassigned Tickets - 0
+2025-10-29 18:51:36,474 - INFO - Assigned Tickets - 8
+2025-10-29 18:51:36,482 - INFO - Closed Tickets - 0
+2025-10-29 18:51:36,489 - INFO - No unassinged tickets found.
+2025-10-29 18:52:36,515 - INFO - Started monitoring for new tickets
+2025-10-29 18:52:37,746 - INFO - Total Tickets - 9
+2025-10-29 18:52:37,754 - INFO - Unassigned Tickets - 0
+2025-10-29 18:52:37,762 - INFO - Assigned Tickets - 8
+2025-10-29 18:52:37,767 - INFO - Closed Tickets - 0
+2025-10-29 18:52:37,775 - INFO - No unassinged tickets found.
+2025-10-29 18:53:37,804 - INFO - Started monitoring for new tickets
+2025-10-29 18:53:39,005 - INFO - Total Tickets - 9
+2025-10-29 18:53:39,014 - INFO - Unassigned Tickets - 0
+2025-10-29 18:53:39,022 - INFO - Assigned Tickets - 8
+2025-10-29 18:53:39,030 - INFO - Closed Tickets - 0
+2025-10-29 18:53:39,038 - INFO - No unassinged tickets found.
+2025-10-29 18:54:39,065 - INFO - Started monitoring for new tickets
+2025-10-29 18:54:40,350 - INFO - Total Tickets - 9
+2025-10-29 18:54:40,358 - INFO - Unassigned Tickets - 0
+2025-10-29 18:54:40,367 - INFO - Assigned Tickets - 8
+2025-10-29 18:54:40,374 - INFO - Closed Tickets - 0
+2025-10-29 18:54:40,383 - INFO - No unassinged tickets found.
+2025-10-29 18:55:40,408 - INFO - Started monitoring for new tickets
+2025-10-29 18:55:41,669 - INFO - Total Tickets - 9
+2025-10-29 18:55:41,678 - INFO - Unassigned Tickets - 0
+2025-10-29 18:55:41,683 - INFO - Assigned Tickets - 8
+2025-10-29 18:55:41,694 - INFO - Closed Tickets - 0
+2025-10-29 18:55:41,699 - INFO - No unassinged tickets found.
+2025-10-29 18:56:41,727 - INFO - Started monitoring for new tickets
+2025-10-29 18:56:43,060 - INFO - Total Tickets - 9
+2025-10-29 18:56:43,066 - INFO - Unassigned Tickets - 0
+2025-10-29 18:56:43,074 - INFO - Assigned Tickets - 8
+2025-10-29 18:56:43,088 - INFO - Closed Tickets - 0
+2025-10-29 18:56:43,097 - INFO - No unassinged tickets found.
+2025-10-29 18:57:30,453 - INFO - Connected to Jira
+2025-10-29 18:57:30,688 - INFO - 2 project members.
+2025-10-29 18:57:30,689 - INFO - Started monitoring for new tickets
+2025-10-29 18:57:32,262 - INFO - Total Tickets - 9
+2025-10-29 18:57:32,264 - INFO - Unassigned Tickets - 0
+2025-10-29 18:57:32,265 - INFO - Assigned Tickets - 8
+2025-10-29 18:57:32,266 - INFO - Closed Tickets - 0
+2025-10-29 18:57:32,267 - INFO - No unassinged tickets found.
+2025-10-29 18:58:32,287 - INFO - Started monitoring for new tickets
+2025-10-29 18:58:33,562 - INFO - Total Tickets - 9
+2025-10-29 18:58:33,567 - INFO - Unassigned Tickets - 0
+2025-10-29 18:58:33,572 - INFO - Assigned Tickets - 8
+2025-10-29 18:58:33,576 - INFO - Closed Tickets - 0
+2025-10-29 18:58:33,580 - INFO - No unassinged tickets found.
+2025-10-29 18:59:33,602 - INFO - Started monitoring for new tickets
+2025-10-29 18:59:34,919 - INFO - Total Tickets - 9
+2025-10-29 18:59:34,927 - INFO - Unassigned Tickets - 0
+2025-10-29 18:59:34,932 - INFO - Assigned Tickets - 8
+2025-10-29 18:59:34,940 - INFO - Closed Tickets - 0
+2025-10-29 18:59:34,946 - INFO - No unassinged tickets found.
+2025-10-29 19:00:13,953 - INFO - Connected to Jira
+2025-10-29 19:00:14,191 - INFO - 2 project members.
+2025-10-29 19:00:14,193 - INFO - Started monitoring for new tickets
+2025-10-29 19:00:15,868 - INFO - Total Tickets - 9
+2025-10-29 19:00:15,870 - INFO - Unassigned Tickets - 0
+2025-10-29 19:00:15,872 - INFO - Assigned Tickets - 8
+2025-10-29 19:00:15,873 - INFO - Closed Tickets - 0
+2025-10-29 19:00:15,874 - INFO - No unassinged tickets found.
+2025-10-29 19:00:16,057 - INFO - No resolved tickets left for more than 2 days
+2025-10-29 19:00:16,320 - INFO - No resolved tickets left for more than 2 days
+2025-10-29 19:00:17,143 - ERROR - Error closing resolved tickets: main thread is not in main loop
+2025-10-29 19:00:27,209 - INFO - Connected to Jira
+2025-10-29 19:00:27,455 - INFO - 2 project members.
+2025-10-29 19:00:27,457 - INFO - Started monitoring for new tickets
+2025-10-29 19:00:29,134 - INFO - Total Tickets - 9
+2025-10-29 19:00:29,137 - INFO - Unassigned Tickets - 0
+2025-10-29 19:00:29,140 - INFO - Assigned Tickets - 8
+2025-10-29 19:00:29,144 - INFO - Closed Tickets - 0
+2025-10-29 19:00:29,147 - INFO - No unassinged tickets found.
+2025-10-29 19:00:29,357 - INFO - No resolved tickets left for more than 2 days
+2025-10-29 19:00:29,629 - INFO - No resolved tickets left for more than 2 days
+2025-10-29 19:01:29,170 - INFO - Started monitoring for new tickets
+2025-10-29 19:01:30,510 - INFO - Total Tickets - 9
+2025-10-29 19:01:30,518 - INFO - Unassigned Tickets - 0
+2025-10-29 19:01:30,521 - INFO - Assigned Tickets - 8
+2025-10-29 19:01:30,527 - INFO - Closed Tickets - 0
+2025-10-29 19:01:30,534 - INFO - No unassinged tickets found.
+2025-10-29 19:01:59,019 - INFO - Connected to Jira
+2025-10-29 19:01:59,268 - INFO - 2 project members.
+2025-10-29 19:01:59,272 - INFO - Started monitoring for new tickets
+2025-10-29 19:02:00,746 - INFO - Total Tickets - 9
+2025-10-29 19:02:00,748 - INFO - Unassigned Tickets - 0
+2025-10-29 19:02:00,751 - INFO - Assigned Tickets - 8
+2025-10-29 19:02:00,753 - INFO - Closed Tickets - 0
+2025-10-29 19:02:00,756 - INFO - No unassinged tickets found.
+2025-10-29 19:02:00,947 - INFO - No resolved tickets left for more than 2 days
+2025-10-29 19:02:01,223 - INFO - No resolved tickets left for more than 2 days
+2025-10-29 19:02:02,029 - ERROR - Error closing resolved tickets: main thread is not in main loop
+2025-10-29 19:03:00,778 - INFO - Started monitoring for new tickets
+2025-10-29 19:03:02,165 - INFO - Total Tickets - 9
+2025-10-29 19:03:02,167 - INFO - Unassigned Tickets - 0
+2025-10-29 19:03:02,168 - INFO - Assigned Tickets - 8
+2025-10-29 19:03:02,170 - INFO - Closed Tickets - 0
+2025-10-29 19:03:02,171 - INFO - No unassinged tickets found.
+2025-10-29 19:04:02,191 - INFO - Started monitoring for new tickets
+2025-10-29 19:04:03,366 - INFO - Total Tickets - 9
+2025-10-29 19:04:03,368 - INFO - Unassigned Tickets - 0
+2025-10-29 19:04:03,369 - INFO - Assigned Tickets - 8
+2025-10-29 19:04:03,371 - INFO - Closed Tickets - 0
+2025-10-29 19:04:03,372 - INFO - No unassinged tickets found.
+2025-10-29 19:05:03,391 - INFO - Started monitoring for new tickets
+2025-10-29 19:05:04,948 - INFO - Total Tickets - 9
+2025-10-29 19:05:04,949 - INFO - Unassigned Tickets - 0
+2025-10-29 19:05:04,952 - INFO - Assigned Tickets - 8
+2025-10-29 19:05:04,955 - INFO - Closed Tickets - 0
+2025-10-29 19:05:04,957 - INFO - No unassinged tickets found.
+2025-10-29 19:06:04,980 - INFO - Started monitoring for new tickets
+2025-10-29 19:06:06,112 - INFO - Total Tickets - 9
+2025-10-29 19:06:06,115 - INFO - Unassigned Tickets - 0
+2025-10-29 19:06:06,119 - INFO - Assigned Tickets - 8
+2025-10-29 19:06:06,121 - INFO - Closed Tickets - 0
+2025-10-29 19:06:06,124 - INFO - No unassinged tickets found.
+2025-10-29 19:07:06,146 - INFO - Started monitoring for new tickets
+2025-10-29 19:07:07,352 - INFO - Total Tickets - 9
+2025-10-29 19:07:07,355 - INFO - Unassigned Tickets - 0
+2025-10-29 19:07:07,357 - INFO - Assigned Tickets - 8
+2025-10-29 19:07:07,360 - INFO - Closed Tickets - 0
+2025-10-29 19:07:07,362 - INFO - No unassinged tickets found.
+2025-10-29 19:07:24,090 - INFO - Connected to Jira
+2025-10-29 19:07:24,351 - INFO - 2 project members.
+2025-10-29 19:07:24,351 - INFO - Started monitoring for new tickets
+2025-10-29 19:07:25,739 - INFO - Total Tickets - 9
+2025-10-29 19:07:25,739 - INFO - Unassigned Tickets - 0
+2025-10-29 19:07:25,739 - INFO - Assigned Tickets - 8
+2025-10-29 19:07:25,739 - INFO - Closed Tickets - 0
+2025-10-29 19:07:25,739 - INFO - No unassinged tickets found.
+2025-10-29 19:07:25,930 - INFO - No resolved tickets left for more than 2 days
+2025-10-29 19:07:26,205 - INFO - No resolved tickets left for more than 2 days
+2025-10-29 19:08:25,758 - INFO - Started monitoring for new tickets
+2025-10-29 19:08:26,974 - INFO - Total Tickets - 9
+2025-10-29 19:08:26,974 - INFO - Unassigned Tickets - 0
+2025-10-29 19:08:26,974 - INFO - Assigned Tickets - 8
+2025-10-29 19:08:26,977 - INFO - Closed Tickets - 0
+2025-10-29 19:08:26,979 - INFO - No unassinged tickets found.
+2025-10-29 19:09:08,699 - INFO - Connected to Jira
+2025-10-29 19:09:08,901 - INFO - 2 project members.
+2025-10-29 19:09:08,902 - INFO - Started monitoring for new tickets
+2025-10-29 19:09:10,300 - INFO - Total Tickets - 9
+2025-10-29 19:09:10,300 - INFO - Unassigned Tickets - 0
+2025-10-29 19:09:10,300 - INFO - Assigned Tickets - 8
+2025-10-29 19:09:10,301 - INFO - Closed Tickets - 0
+2025-10-29 19:09:10,301 - INFO - No unassinged tickets found.
+2025-10-29 19:09:10,482 - INFO - No resolved tickets left for more than 2 days
+2025-10-29 19:09:10,778 - INFO - No resolved tickets left for more than 2 days
+2025-10-29 19:09:11,566 - ERROR - Error closing resolved tickets: main thread is not in main loop
+2025-10-29 19:10:10,321 - INFO - Started monitoring for new tickets
+2025-10-29 19:10:11,697 - INFO - Total Tickets - 9
+2025-10-29 19:10:11,697 - INFO - Unassigned Tickets - 0
+2025-10-29 19:10:11,702 - INFO - Assigned Tickets - 8
+2025-10-29 19:10:11,703 - INFO - Closed Tickets - 0
+2025-10-29 19:10:11,704 - INFO - No unassinged tickets found.
+2025-10-29 19:11:11,726 - INFO - Started monitoring for new tickets
+2025-10-29 19:11:12,983 - INFO - Total Tickets - 9
+2025-10-29 19:11:12,983 - INFO - Unassigned Tickets - 0
+2025-10-29 19:11:12,984 - INFO - Assigned Tickets - 8
+2025-10-29 19:11:12,984 - INFO - Closed Tickets - 0
+2025-10-29 19:11:12,987 - INFO - No unassinged tickets found.
+2025-10-29 19:12:13,008 - INFO - Started monitoring for new tickets
+2025-10-29 19:12:14,216 - INFO - Total Tickets - 9
+2025-10-29 19:12:14,217 - INFO - Unassigned Tickets - 0
+2025-10-29 19:12:14,218 - INFO - Assigned Tickets - 8
+2025-10-29 19:12:14,218 - INFO - Closed Tickets - 0
+2025-10-29 19:12:14,222 - INFO - No unassinged tickets found.
+2025-10-29 19:12:53,054 - INFO - Connected to Jira
+2025-10-29 19:12:53,262 - INFO - 2 project members.
+2025-10-29 19:12:53,262 - INFO - Started monitoring for new tickets
+2025-10-29 19:12:54,568 - INFO - Total Tickets - 9
+2025-10-29 19:12:54,569 - INFO - Unassigned Tickets - 0
+2025-10-29 19:12:54,569 - INFO - Assigned Tickets - 8
+2025-10-29 19:12:54,569 - INFO - Closed Tickets - 0
+2025-10-29 19:12:54,569 - INFO - No unassinged tickets found.
+2025-10-29 19:12:54,755 - INFO - No resolved tickets left for more than 2 days
+2025-10-29 19:12:55,054 - INFO - No resolved tickets left for more than 2 days
+2025-10-29 19:12:55,838 - ERROR - Error closing resolved tickets: main thread is not in main loop
+2025-10-29 19:13:26,016 - INFO - Connected to Jira
+2025-10-29 19:13:26,260 - INFO - 2 project members.
+2025-10-29 19:13:26,260 - INFO - Started monitoring for new tickets
+2025-10-29 19:13:27,653 - INFO - Total Tickets - 9
+2025-10-29 19:13:27,653 - INFO - Unassigned Tickets - 0
+2025-10-29 19:13:27,653 - INFO - Assigned Tickets - 8
+2025-10-29 19:13:27,653 - INFO - Closed Tickets - 0
+2025-10-29 19:13:27,653 - INFO - No unassinged tickets found.
+2025-10-29 19:13:27,852 - INFO - No resolved tickets left for more than 2 days
+2025-10-29 19:13:31,662 - INFO - Connected to Jira
+2025-10-29 19:13:31,870 - INFO - 2 project members.
+2025-10-29 19:13:31,870 - INFO - Started monitoring for new tickets
+2025-10-29 19:13:33,381 - INFO - Total Tickets - 9
+2025-10-29 19:13:33,381 - INFO - Unassigned Tickets - 0
+2025-10-29 19:13:33,381 - INFO - Assigned Tickets - 8
+2025-10-29 19:13:33,381 - INFO - Closed Tickets - 0
+2025-10-29 19:13:33,381 - INFO - No unassinged tickets found.
+2025-10-29 19:13:33,512 - INFO - No resolved tickets left for more than 2 days
+2025-10-29 19:13:35,991 - INFO - Connected to Jira
+2025-10-29 19:13:36,190 - INFO - 2 project members.
+2025-10-29 19:13:36,190 - INFO - Started monitoring for new tickets
+2025-10-29 19:13:37,500 - INFO - Total Tickets - 9
+2025-10-29 19:13:37,500 - INFO - Unassigned Tickets - 0
+2025-10-29 19:13:37,500 - INFO - Assigned Tickets - 8
+2025-10-29 19:13:37,500 - INFO - Closed Tickets - 0
+2025-10-29 19:13:37,500 - INFO - No unassinged tickets found.
+2025-10-29 19:13:37,680 - INFO - No resolved tickets left for more than 2 days
+2025-10-29 19:13:41,781 - INFO - Connected to Jira
+2025-10-29 19:13:42,039 - INFO - 2 project members.
+2025-10-29 19:13:42,039 - INFO - Started monitoring for new tickets
+2025-10-29 19:13:43,348 - INFO - Total Tickets - 9
+2025-10-29 19:13:43,348 - INFO - Unassigned Tickets - 0
+2025-10-29 19:13:43,348 - INFO - Assigned Tickets - 8
+2025-10-29 19:13:43,348 - INFO - Closed Tickets - 0
+2025-10-29 19:13:43,348 - INFO - No unassinged tickets found.
+2025-10-29 19:13:43,549 - INFO - No resolved tickets left for more than 2 days
+2025-10-29 20:04:03,116 - INFO - Connected to Jira
+2025-10-29 20:04:03,461 - INFO - 2 project members.
+2025-10-29 20:04:03,461 - INFO - Started monitoring for new tickets
+2025-10-29 20:04:05,508 - INFO - Total Tickets - 9
+2025-10-29 20:04:05,508 - INFO - Unassigned Tickets - 0
+2025-10-29 20:04:05,508 - INFO - Assigned Tickets - 8
+2025-10-29 20:04:05,508 - INFO - Closed Tickets - 0
+2025-10-29 20:04:05,508 - INFO - No unassinged tickets found.
+2025-10-29 20:04:28,857 - INFO - Connected to Jira
+2025-10-29 20:04:29,067 - INFO - 2 project members.
+2025-10-29 20:04:29,067 - INFO - Started monitoring for new tickets
+2025-10-29 20:04:30,584 - INFO - Total Tickets - 9
+2025-10-29 20:04:30,584 - INFO - Unassigned Tickets - 0
+2025-10-29 20:04:30,584 - INFO - Assigned Tickets - 8
+2025-10-29 20:04:30,584 - INFO - Closed Tickets - 0
+2025-10-29 20:04:30,584 - INFO - No unassinged tickets found.
+2025-10-29 20:05:28,770 - INFO - Connected to Jira
+2025-10-29 20:05:29,489 - INFO - 2 project members.
+2025-10-29 20:05:29,489 - INFO - Started monitoring for new tickets
+2025-10-29 20:05:31,086 - INFO - Total Tickets - 9
+2025-10-29 20:05:31,086 - INFO - Unassigned Tickets - 0
+2025-10-29 20:05:31,086 - INFO - Assigned Tickets - 8
+2025-10-29 20:05:31,086 - INFO - Closed Tickets - 0
+2025-10-29 20:05:31,086 - INFO - No unassinged tickets found.
+2025-10-29 20:05:31,297 - INFO - No resolved tickets left for more than 2 days
+2025-10-29 20:05:50,166 - INFO - Connected to Jira
+2025-10-29 20:05:50,451 - INFO - 2 project members.
+2025-10-29 20:05:50,451 - INFO - Started monitoring for new tickets
+2025-10-29 20:05:51,925 - INFO - Total Tickets - 9
+2025-10-29 20:05:51,925 - INFO - Unassigned Tickets - 0
+2025-10-29 20:05:51,925 - INFO - Assigned Tickets - 8
+2025-10-29 20:05:51,925 - INFO - Closed Tickets - 0
+2025-10-29 20:05:51,925 - INFO - No unassinged tickets found.
+2025-10-29 20:05:52,132 - INFO - No resolved tickets left for more than 2 days
+2025-10-29 20:05:54,203 - ERROR - Error sending email {}
+2025-10-29 20:05:54,668 - INFO - Sent email/added reminder to ticketSUP-39
+2025-10-29 20:06:33,564 - INFO - Connected to Jira
+2025-10-29 20:06:33,808 - INFO - 2 project members.
+2025-10-29 20:06:33,808 - INFO - Started monitoring for new tickets
+2025-10-29 20:06:35,305 - INFO - Total Tickets - 9
+2025-10-29 20:06:35,305 - INFO - Unassigned Tickets - 0
+2025-10-29 20:06:35,305 - INFO - Assigned Tickets - 8
+2025-10-29 20:06:35,306 - INFO - Closed Tickets - 0
+2025-10-29 20:06:35,306 - INFO - No unassinged tickets found.
+2025-10-29 20:06:35,516 - INFO - No resolved tickets left for more than 2 days
