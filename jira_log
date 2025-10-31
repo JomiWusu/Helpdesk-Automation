@@ -1100,3 +1100,558 @@
 2025-10-29 20:06:35,306 - INFO - Closed Tickets - 0
 2025-10-29 20:06:35,306 - INFO - No unassinged tickets found.
 2025-10-29 20:06:35,516 - INFO - No resolved tickets left for more than 2 days
+2025-10-31 18:27:17,548 - INFO - Connected to Jira
+2025-10-31 18:27:17,792 - INFO - 2 project members.
+2025-10-31 18:27:17,792 - INFO - Started monitoring for new tickets
+2025-10-31 18:27:19,795 - INFO - Total Tickets - 9
+2025-10-31 18:27:19,795 - INFO - Unassigned Tickets - 0
+2025-10-31 18:27:19,795 - INFO - Assigned Tickets - 8
+2025-10-31 18:27:19,795 - INFO - Closed Tickets - 0
+2025-10-31 18:27:19,795 - INFO - No unassinged tickets found.
+2025-10-31 18:27:19,999 - INFO - No resolved tickets left for more than 2 days
+2025-10-31 18:27:23,490 - INFO - Sent email/added reminder to ticketSUP-39
+2025-10-31 18:27:25,585 - INFO - Sent email/added reminder to ticketSUP-38
+2025-10-31 18:27:27,659 - INFO - Sent email/added reminder to ticketSUP-37
+2025-10-31 18:27:29,812 - INFO - Sent email/added reminder to ticketSUP-36
+2025-10-31 18:27:31,953 - INFO - Sent email/added reminder to ticketSUP-34
+2025-10-31 18:27:34,086 - INFO - Sent email/added reminder to ticketSUP-33
+2025-10-31 18:28:20,597 - INFO - Total Tickets - 9
+2025-10-31 18:28:20,598 - INFO - Unassigned Tickets - 0
+2025-10-31 18:28:20,598 - INFO - Assigned Tickets - 8
+2025-10-31 18:28:20,598 - INFO - Closed Tickets - 0
+2025-10-31 18:28:34,104 - INFO - Started monitoring for new tickets
+2025-10-31 18:28:35,243 - INFO - Total Tickets - 9
+2025-10-31 18:28:35,243 - INFO - Unassigned Tickets - 0
+2025-10-31 18:28:35,243 - INFO - Assigned Tickets - 8
+2025-10-31 18:28:35,244 - INFO - Closed Tickets - 0
+2025-10-31 18:28:35,244 - INFO - No unassinged tickets found.
+2025-10-31 18:29:35,262 - INFO - Started monitoring for new tickets
+2025-10-31 18:29:36,518 - INFO - Total Tickets - 9
+2025-10-31 18:29:36,518 - INFO - Unassigned Tickets - 0
+2025-10-31 18:29:36,519 - INFO - Assigned Tickets - 8
+2025-10-31 18:29:36,521 - INFO - Closed Tickets - 0
+2025-10-31 18:29:36,522 - INFO - No unassinged tickets found.
+2025-10-31 18:30:36,539 - INFO - Started monitoring for new tickets
+2025-10-31 18:30:37,717 - INFO - Total Tickets - 9
+2025-10-31 18:30:37,717 - INFO - Unassigned Tickets - 0
+2025-10-31 18:30:37,718 - INFO - Assigned Tickets - 8
+2025-10-31 18:30:37,719 - INFO - Closed Tickets - 0
+2025-10-31 18:30:37,720 - INFO - No unassinged tickets found.
+2025-10-31 18:31:37,742 - INFO - Started monitoring for new tickets
+2025-10-31 18:31:39,127 - INFO - Total Tickets - 9
+2025-10-31 18:31:39,127 - INFO - Unassigned Tickets - 0
+2025-10-31 18:31:39,128 - INFO - Assigned Tickets - 8
+2025-10-31 18:31:39,129 - INFO - Closed Tickets - 0
+2025-10-31 18:31:39,130 - INFO - No unassinged tickets found.
+2025-10-31 18:32:39,148 - INFO - Started monitoring for new tickets
+2025-10-31 18:32:40,447 - INFO - Total Tickets - 9
+2025-10-31 18:32:40,448 - INFO - Unassigned Tickets - 0
+2025-10-31 18:32:40,450 - INFO - Assigned Tickets - 8
+2025-10-31 18:32:40,451 - INFO - Closed Tickets - 0
+2025-10-31 18:32:40,452 - INFO - No unassinged tickets found.
+2025-10-31 18:33:40,474 - INFO - Started monitoring for new tickets
+2025-10-31 18:33:41,688 - INFO - Total Tickets - 9
+2025-10-31 18:33:41,689 - INFO - Unassigned Tickets - 0
+2025-10-31 18:33:41,690 - INFO - Assigned Tickets - 8
+2025-10-31 18:33:41,690 - INFO - Closed Tickets - 0
+2025-10-31 18:33:41,691 - INFO - No unassinged tickets found.
+2025-10-31 18:34:32,850 - INFO - Connected to Jira
+2025-10-31 18:34:33,058 - INFO - 2 project members.
+2025-10-31 18:34:33,058 - INFO - Started monitoring for new tickets
+2025-10-31 18:34:34,523 - INFO - Total Tickets - 9
+2025-10-31 18:34:34,523 - INFO - Unassigned Tickets - 0
+2025-10-31 18:34:34,523 - INFO - Assigned Tickets - 8
+2025-10-31 18:34:34,523 - INFO - Closed Tickets - 0
+2025-10-31 18:34:34,523 - INFO - No unassinged tickets found.
+2025-10-31 18:34:34,672 - INFO - No resolved tickets left for more than 2 days
+2025-10-31 18:34:41,713 - INFO - Started monitoring for new tickets
+2025-10-31 18:34:42,911 - INFO - Total Tickets - 9
+2025-10-31 18:34:42,911 - INFO - Unassigned Tickets - 0
+2025-10-31 18:34:42,912 - INFO - Assigned Tickets - 8
+2025-10-31 18:34:42,913 - INFO - Closed Tickets - 0
+2025-10-31 18:34:42,914 - INFO - No unassinged tickets found.
+2025-10-31 18:35:42,934 - INFO - Started monitoring for new tickets
+2025-10-31 18:35:44,057 - INFO - Total Tickets - 9
+2025-10-31 18:35:44,057 - INFO - Unassigned Tickets - 0
+2025-10-31 18:35:44,058 - INFO - Assigned Tickets - 8
+2025-10-31 18:35:44,059 - INFO - Closed Tickets - 0
+2025-10-31 18:35:44,059 - INFO - No unassinged tickets found.
+2025-10-31 18:36:14,426 - INFO - Connected to Jira
+2025-10-31 18:36:14,718 - INFO - 2 project members.
+2025-10-31 18:36:14,718 - INFO - Started monitoring for new tickets
+2025-10-31 18:36:16,245 - INFO - Total Tickets - 9
+2025-10-31 18:36:16,245 - INFO - Unassigned Tickets - 0
+2025-10-31 18:36:16,245 - INFO - Assigned Tickets - 8
+2025-10-31 18:36:16,245 - INFO - Closed Tickets - 0
+2025-10-31 18:36:16,245 - INFO - No unassinged tickets found.
+2025-10-31 18:36:16,450 - INFO - No resolved tickets left for more than 2 days
+2025-10-31 18:36:28,134 - INFO - Generating Weekly Report
+2025-10-31 18:36:46,396 - INFO - Sent weekly email report
+2025-10-31 18:38:09,777 - INFO - Connected to Jira
+2025-10-31 18:38:09,984 - INFO - 2 project members.
+2025-10-31 18:38:09,984 - INFO - Started monitoring for new tickets
+2025-10-31 18:38:11,375 - INFO - Total Tickets - 9
+2025-10-31 18:38:11,376 - INFO - Unassigned Tickets - 0
+2025-10-31 18:38:11,376 - INFO - Assigned Tickets - 8
+2025-10-31 18:38:11,376 - INFO - Closed Tickets - 0
+2025-10-31 18:38:11,376 - INFO - No unassinged tickets found.
+2025-10-31 18:38:11,564 - INFO - No resolved tickets left for more than 2 days
+2025-10-31 18:38:28,020 - INFO - Connected to Jira
+2025-10-31 18:38:28,184 - INFO - 2 project members.
+2025-10-31 18:38:28,184 - INFO - Started monitoring for new tickets
+2025-10-31 18:38:29,572 - INFO - Total Tickets - 9
+2025-10-31 18:38:29,572 - INFO - Unassigned Tickets - 0
+2025-10-31 18:38:29,572 - INFO - Assigned Tickets - 8
+2025-10-31 18:38:29,572 - INFO - Closed Tickets - 0
+2025-10-31 18:38:29,572 - INFO - No unassinged tickets found.
+2025-10-31 18:38:29,773 - INFO - No resolved tickets left for more than 2 days
+2025-10-31 18:39:30,124 - INFO - Started monitoring for new tickets
+2025-10-31 18:39:31,250 - INFO - Total Tickets - 9
+2025-10-31 18:39:31,250 - INFO - Unassigned Tickets - 0
+2025-10-31 18:39:31,251 - INFO - Assigned Tickets - 8
+2025-10-31 18:39:31,253 - INFO - Closed Tickets - 0
+2025-10-31 18:39:31,255 - INFO - No unassinged tickets found.
+2025-10-31 18:39:41,243 - INFO - Connected to Jira
+2025-10-31 18:39:41,480 - INFO - 2 project members.
+2025-10-31 18:39:41,480 - INFO - Started monitoring for new tickets
+2025-10-31 18:39:42,937 - INFO - Total Tickets - 9
+2025-10-31 18:39:42,937 - INFO - Unassigned Tickets - 0
+2025-10-31 18:39:42,937 - INFO - Assigned Tickets - 8
+2025-10-31 18:39:42,937 - INFO - Closed Tickets - 0
+2025-10-31 18:39:42,937 - INFO - No unassinged tickets found.
+2025-10-31 18:39:43,072 - INFO - No resolved tickets left for more than 2 days
+2025-10-31 18:40:00,478 - INFO - Generating Weekly Report
+2025-10-31 18:40:01,320 - INFO - Sent weekly email report
+2025-10-31 18:43:31,596 - INFO - Connected to Jira
+2025-10-31 18:43:31,789 - INFO - 2 project members.
+2025-10-31 18:43:31,789 - INFO - Started monitoring for new tickets
+2025-10-31 18:43:33,222 - INFO - Total Tickets - 9
+2025-10-31 18:43:33,222 - INFO - Unassigned Tickets - 0
+2025-10-31 18:43:33,222 - INFO - Assigned Tickets - 8
+2025-10-31 18:43:33,222 - INFO - Closed Tickets - 0
+2025-10-31 18:43:33,222 - INFO - No unassinged tickets found.
+2025-10-31 18:43:33,407 - INFO - No resolved tickets left for more than 2 days
+2025-10-31 18:43:36,172 - INFO - Started monitoring for new tickets
+2025-10-31 18:43:37,310 - INFO - Total Tickets - 9
+2025-10-31 18:43:37,311 - INFO - Unassigned Tickets - 0
+2025-10-31 18:43:37,311 - INFO - Assigned Tickets - 8
+2025-10-31 18:43:37,313 - INFO - Closed Tickets - 0
+2025-10-31 18:43:37,315 - INFO - No unassinged tickets found.
+2025-10-31 18:44:12,788 - INFO - Connected to Jira
+2025-10-31 18:44:13,048 - INFO - 2 project members.
+2025-10-31 18:44:13,048 - INFO - Started monitoring for new tickets
+2025-10-31 18:44:14,605 - INFO - Total Tickets - 9
+2025-10-31 18:44:14,605 - INFO - Unassigned Tickets - 0
+2025-10-31 18:44:14,605 - INFO - Assigned Tickets - 8
+2025-10-31 18:44:14,605 - INFO - Closed Tickets - 0
+2025-10-31 18:44:14,605 - INFO - No unassinged tickets found.
+2025-10-31 18:44:14,793 - INFO - No resolved tickets left for more than 2 days
+2025-10-31 18:45:26,936 - INFO - Connected to Jira
+2025-10-31 18:45:27,177 - INFO - 2 project members.
+2025-10-31 18:45:27,178 - INFO - Started monitoring for new tickets
+2025-10-31 18:45:29,021 - INFO - Total Tickets - 9
+2025-10-31 18:45:29,021 - INFO - Unassigned Tickets - 0
+2025-10-31 18:45:29,021 - INFO - Assigned Tickets - 8
+2025-10-31 18:45:29,021 - INFO - Closed Tickets - 0
+2025-10-31 18:45:29,021 - INFO - No unassinged tickets found.
+2025-10-31 18:45:29,251 - INFO - No resolved tickets left for more than 2 days
+2025-10-31 18:46:02,140 - INFO - Connected to Jira
+2025-10-31 18:46:02,383 - INFO - 2 project members.
+2025-10-31 18:46:02,383 - INFO - Started monitoring for new tickets
+2025-10-31 18:46:03,943 - INFO - Total Tickets - 9
+2025-10-31 18:46:03,943 - INFO - Unassigned Tickets - 0
+2025-10-31 18:46:03,943 - INFO - Assigned Tickets - 8
+2025-10-31 18:46:03,943 - INFO - Closed Tickets - 0
+2025-10-31 18:46:03,943 - INFO - No unassinged tickets found.
+2025-10-31 18:46:04,148 - INFO - No resolved tickets left for more than 2 days
+2025-10-31 18:49:12,453 - INFO - Connected to Jira
+2025-10-31 18:49:12,721 - INFO - 2 project members.
+2025-10-31 18:49:12,721 - INFO - Started monitoring for new tickets
+2025-10-31 18:49:14,177 - INFO - Total Tickets - 9
+2025-10-31 18:49:14,177 - INFO - Unassigned Tickets - 0
+2025-10-31 18:49:14,177 - INFO - Assigned Tickets - 8
+2025-10-31 18:49:14,177 - INFO - Closed Tickets - 0
+2025-10-31 18:49:14,177 - INFO - No unassinged tickets found.
+2025-10-31 18:49:14,360 - INFO - No resolved tickets left for more than 2 days
+2025-10-31 18:49:38,268 - INFO - Connected to Jira
+2025-10-31 18:49:38,475 - INFO - 2 project members.
+2025-10-31 18:49:38,475 - INFO - Started monitoring for new tickets
+2025-10-31 18:49:39,938 - INFO - Total Tickets - 9
+2025-10-31 18:49:39,938 - INFO - Unassigned Tickets - 0
+2025-10-31 18:49:39,938 - INFO - Assigned Tickets - 8
+2025-10-31 18:49:39,938 - INFO - Closed Tickets - 0
+2025-10-31 18:49:39,938 - INFO - No unassinged tickets found.
+2025-10-31 18:49:40,109 - INFO - No resolved tickets left for more than 2 days
+2025-10-31 18:50:33,669 - INFO - Connected to Jira
+2025-10-31 18:50:33,974 - INFO - 2 project members.
+2025-10-31 18:50:33,974 - INFO - Started monitoring for new tickets
+2025-10-31 18:50:35,769 - INFO - Total Tickets - 9
+2025-10-31 18:50:35,769 - INFO - Unassigned Tickets - 0
+2025-10-31 18:50:35,769 - INFO - Assigned Tickets - 8
+2025-10-31 18:50:35,769 - INFO - Closed Tickets - 0
+2025-10-31 18:50:35,769 - INFO - No unassinged tickets found.
+2025-10-31 18:50:35,908 - INFO - No resolved tickets left for more than 2 days
+2025-10-31 18:50:57,836 - INFO - Connected to Jira
+2025-10-31 18:50:58,034 - INFO - 2 project members.
+2025-10-31 18:50:58,034 - INFO - Started monitoring for new tickets
+2025-10-31 18:50:59,723 - INFO - Total Tickets - 9
+2025-10-31 18:50:59,723 - INFO - Unassigned Tickets - 0
+2025-10-31 18:50:59,723 - INFO - Assigned Tickets - 8
+2025-10-31 18:50:59,723 - INFO - Closed Tickets - 0
+2025-10-31 18:50:59,723 - INFO - No unassinged tickets found.
+2025-10-31 18:50:59,907 - INFO - No resolved tickets left for more than 2 days
+2025-10-31 18:51:21,184 - INFO - Connected to Jira
+2025-10-31 18:51:21,491 - INFO - 2 project members.
+2025-10-31 18:51:21,491 - INFO - Started monitoring for new tickets
+2025-10-31 18:51:23,026 - INFO - Total Tickets - 9
+2025-10-31 18:51:23,027 - INFO - Unassigned Tickets - 0
+2025-10-31 18:51:23,027 - INFO - Assigned Tickets - 8
+2025-10-31 18:51:23,027 - INFO - Closed Tickets - 0
+2025-10-31 18:51:23,027 - INFO - No unassinged tickets found.
+2025-10-31 18:51:23,168 - INFO - No resolved tickets left for more than 2 days
+2025-10-31 18:52:05,299 - INFO - Connected to Jira
+2025-10-31 18:52:05,555 - INFO - 2 project members.
+2025-10-31 18:52:05,555 - INFO - Started monitoring for new tickets
+2025-10-31 18:52:07,263 - INFO - Total Tickets - 9
+2025-10-31 18:52:07,263 - INFO - Unassigned Tickets - 0
+2025-10-31 18:52:07,263 - INFO - Assigned Tickets - 8
+2025-10-31 18:52:07,263 - INFO - Closed Tickets - 0
+2025-10-31 18:52:07,264 - INFO - No unassinged tickets found.
+2025-10-31 18:52:07,468 - INFO - No resolved tickets left for more than 2 days
+2025-10-31 18:52:22,056 - INFO - Connected to Jira
+2025-10-31 18:52:22,318 - INFO - 2 project members.
+2025-10-31 18:52:22,318 - INFO - Started monitoring for new tickets
+2025-10-31 18:52:23,860 - INFO - Total Tickets - 9
+2025-10-31 18:52:23,860 - INFO - Unassigned Tickets - 0
+2025-10-31 18:52:23,860 - INFO - Assigned Tickets - 8
+2025-10-31 18:52:23,860 - INFO - Closed Tickets - 0
+2025-10-31 18:52:23,860 - INFO - No unassinged tickets found.
+2025-10-31 18:52:24,024 - INFO - No resolved tickets left for more than 2 days
+2025-10-31 18:52:36,031 - INFO - Connected to Jira
+2025-10-31 18:52:36,244 - INFO - 2 project members.
+2025-10-31 18:52:36,244 - INFO - Started monitoring for new tickets
+2025-10-31 18:52:39,876 - INFO - Total Tickets - 9
+2025-10-31 18:52:39,876 - INFO - Unassigned Tickets - 0
+2025-10-31 18:52:39,876 - INFO - Assigned Tickets - 8
+2025-10-31 18:52:39,876 - INFO - Closed Tickets - 0
+2025-10-31 18:52:39,876 - INFO - No unassinged tickets found.
+2025-10-31 18:52:40,003 - INFO - No resolved tickets left for more than 2 days
+2025-10-31 18:53:31,882 - INFO - Connected to Jira
+2025-10-31 18:53:32,082 - INFO - 2 project members.
+2025-10-31 18:53:32,082 - INFO - Started monitoring for new tickets
+2025-10-31 18:53:33,587 - INFO - Total Tickets - 9
+2025-10-31 18:53:33,587 - INFO - Unassigned Tickets - 0
+2025-10-31 18:53:33,587 - INFO - Assigned Tickets - 8
+2025-10-31 18:53:33,587 - INFO - Closed Tickets - 0
+2025-10-31 18:53:33,587 - INFO - No unassinged tickets found.
+2025-10-31 18:53:33,804 - INFO - No resolved tickets left for more than 2 days
+2025-10-31 18:55:27,565 - INFO - Connected to Jira
+2025-10-31 18:55:27,871 - INFO - 2 project members.
+2025-10-31 18:55:27,871 - INFO - Started monitoring for new tickets
+2025-10-31 18:55:29,315 - INFO - Total Tickets - 9
+2025-10-31 18:55:29,315 - INFO - Unassigned Tickets - 0
+2025-10-31 18:55:29,315 - INFO - Assigned Tickets - 8
+2025-10-31 18:55:29,315 - INFO - Closed Tickets - 0
+2025-10-31 18:55:29,315 - INFO - No unassinged tickets found.
+2025-10-31 18:55:29,495 - INFO - No resolved tickets left for more than 2 days
+2025-10-31 18:56:29,879 - INFO - Started monitoring for new tickets
+2025-10-31 18:56:31,143 - INFO - Total Tickets - 9
+2025-10-31 18:56:31,143 - INFO - Unassigned Tickets - 0
+2025-10-31 18:56:31,144 - INFO - Assigned Tickets - 8
+2025-10-31 18:56:31,146 - INFO - Closed Tickets - 0
+2025-10-31 18:56:31,148 - INFO - No unassinged tickets found.
+2025-10-31 18:57:31,171 - INFO - Started monitoring for new tickets
+2025-10-31 18:57:32,436 - INFO - Total Tickets - 9
+2025-10-31 18:57:32,436 - INFO - Unassigned Tickets - 0
+2025-10-31 18:57:32,437 - INFO - Assigned Tickets - 8
+2025-10-31 18:57:32,441 - INFO - Closed Tickets - 0
+2025-10-31 18:57:32,445 - INFO - No unassinged tickets found.
+2025-10-31 18:58:12,441 - INFO - Connected to Jira
+2025-10-31 18:58:12,664 - INFO - 2 project members.
+2025-10-31 18:58:12,665 - INFO - Started monitoring for new tickets
+2025-10-31 18:58:14,334 - INFO - Total Tickets - 9
+2025-10-31 18:58:14,334 - INFO - Unassigned Tickets - 0
+2025-10-31 18:58:14,334 - INFO - Assigned Tickets - 8
+2025-10-31 18:58:14,334 - INFO - Closed Tickets - 0
+2025-10-31 18:58:14,334 - INFO - No unassinged tickets found.
+2025-10-31 18:58:14,550 - INFO - No resolved tickets left for more than 2 days
+2025-10-31 19:10:55,769 - INFO - Connected to Jira
+2025-10-31 19:10:56,038 - INFO - 2 project members.
+2025-10-31 19:10:56,038 - INFO - Started monitoring for new tickets
+2025-10-31 19:10:57,475 - INFO - Total Tickets - 9
+2025-10-31 19:10:57,476 - INFO - Unassigned Tickets - 0
+2025-10-31 19:10:57,476 - INFO - Assigned Tickets - 8
+2025-10-31 19:10:57,476 - INFO - Closed Tickets - 0
+2025-10-31 19:10:57,476 - INFO - No unassinged tickets found.
+2025-10-31 19:10:57,682 - INFO - No resolved tickets left for more than 2 days
+2025-10-31 19:10:58,199 - ERROR - Failed to show notification: 'str' object has no attribute 'key'
+2025-10-31 19:10:58,199 - INFO - New Ticket Found
+2025-10-31 19:10:58,199 - ERROR - Failed to show notification: 'str' object has no attribute 'key'
+2025-10-31 19:10:58,199 - INFO - New Ticket Found
+2025-10-31 19:10:58,199 - ERROR - Failed to show notification: 'str' object has no attribute 'key'
+2025-10-31 19:10:58,199 - INFO - New Ticket Found
+2025-10-31 19:10:58,199 - ERROR - Failed to show notification: 'str' object has no attribute 'key'
+2025-10-31 19:10:58,199 - INFO - New Ticket Found
+2025-10-31 19:10:58,199 - ERROR - Failed to show notification: 'str' object has no attribute 'key'
+2025-10-31 19:10:58,199 - INFO - New Ticket Found
+2025-10-31 19:10:58,199 - ERROR - Failed to show notification: 'str' object has no attribute 'key'
+2025-10-31 19:10:58,199 - INFO - New Ticket Found
+2025-10-31 19:10:58,199 - ERROR - Failed to show notification: 'str' object has no attribute 'key'
+2025-10-31 19:10:58,199 - INFO - New Ticket Found
+2025-10-31 19:10:58,199 - ERROR - Failed to show notification: 'str' object has no attribute 'key'
+2025-10-31 19:10:58,199 - INFO - New Ticket Found
+2025-10-31 19:10:58,199 - ERROR - Failed to show notification: 'str' object has no attribute 'key'
+2025-10-31 19:10:58,199 - INFO - New Ticket Found
+2025-10-31 19:10:58,199 - ERROR - Failed to show notification: 'str' object has no attribute 'key'
+2025-10-31 19:10:58,200 - INFO - New Ticket Found
+2025-10-31 19:10:58,200 - ERROR - Failed to show notification: 'str' object has no attribute 'key'
+2025-10-31 19:10:58,200 - INFO - New Ticket Found
+2025-10-31 19:10:58,200 - ERROR - Failed to show notification: 'str' object has no attribute 'key'
+2025-10-31 19:10:58,200 - INFO - New Ticket Found
+2025-10-31 19:10:58,200 - ERROR - Failed to show notification: 'str' object has no attribute 'key'
+2025-10-31 19:10:58,200 - INFO - New Ticket Found
+2025-10-31 19:10:58,200 - ERROR - Failed to show notification: 'str' object has no attribute 'key'
+2025-10-31 19:10:58,200 - INFO - New Ticket Found
+2025-10-31 19:10:58,200 - ERROR - Failed to show notification: 'str' object has no attribute 'key'
+2025-10-31 19:10:58,200 - INFO - New Ticket Found
+2025-10-31 19:10:58,200 - ERROR - Failed to show notification: 'str' object has no attribute 'key'
+2025-10-31 19:10:58,200 - INFO - New Ticket Found
+2025-10-31 19:10:58,200 - ERROR - Failed to show notification: 'str' object has no attribute 'key'
+2025-10-31 19:10:58,200 - INFO - New Ticket Found
+2025-10-31 19:10:58,200 - ERROR - Failed to show notification: 'str' object has no attribute 'key'
+2025-10-31 19:10:58,200 - INFO - New Ticket Found
+2025-10-31 19:10:58,200 - ERROR - Failed to show notification: 'str' object has no attribute 'key'
+2025-10-31 19:10:58,200 - INFO - New Ticket Found
+2025-10-31 19:10:58,200 - ERROR - Failed to show notification: 'str' object has no attribute 'key'
+2025-10-31 19:10:58,200 - INFO - New Ticket Found
+2025-10-31 19:10:58,200 - ERROR - Failed to show notification: 'str' object has no attribute 'key'
+2025-10-31 19:10:58,200 - INFO - New Ticket Found
+2025-10-31 19:10:58,200 - ERROR - Failed to show notification: 'str' object has no attribute 'key'
+2025-10-31 19:10:58,200 - INFO - New Ticket Found
+2025-10-31 19:10:58,200 - ERROR - Failed to show notification: 'str' object has no attribute 'key'
+2025-10-31 19:10:58,200 - INFO - New Ticket Found
+2025-10-31 19:10:58,200 - ERROR - Failed to show notification: 'str' object has no attribute 'key'
+2025-10-31 19:10:58,200 - INFO - New Ticket Found
+2025-10-31 19:10:58,200 - ERROR - Failed to show notification: 'str' object has no attribute 'key'
+2025-10-31 19:10:58,200 - INFO - New Ticket Found
+2025-10-31 19:10:58,200 - ERROR - Failed to show notification: 'str' object has no attribute 'key'
+2025-10-31 19:10:58,200 - INFO - New Ticket Found
+2025-10-31 19:10:58,200 - ERROR - Failed to show notification: 'str' object has no attribute 'key'
+2025-10-31 19:10:58,200 - INFO - New Ticket Found
+2025-10-31 19:10:58,200 - ERROR - Failed to show notification: 'str' object has no attribute 'key'
+2025-10-31 19:10:58,200 - INFO - New Ticket Found
+2025-10-31 19:10:58,200 - ERROR - Failed to show notification: 'str' object has no attribute 'key'
+2025-10-31 19:10:58,200 - INFO - New Ticket Found
+2025-10-31 19:10:58,200 - ERROR - Failed to show notification: 'str' object has no attribute 'key'
+2025-10-31 19:10:58,200 - INFO - New Ticket Found
+2025-10-31 19:10:58,200 - ERROR - Failed to show notification: 'str' object has no attribute 'key'
+2025-10-31 19:10:58,200 - INFO - New Ticket Found
+2025-10-31 19:10:58,201 - ERROR - Failed to show notification: 'str' object has no attribute 'key'
+2025-10-31 19:10:58,201 - INFO - New Ticket Found
+2025-10-31 19:10:58,201 - ERROR - Failed to show notification: 'str' object has no attribute 'key'
+2025-10-31 19:10:58,201 - INFO - New Ticket Found
+2025-10-31 19:10:58,201 - ERROR - Failed to show notification: 'str' object has no attribute 'key'
+2025-10-31 19:10:58,201 - INFO - New Ticket Found
+2025-10-31 19:10:58,201 - ERROR - Failed to show notification: 'str' object has no attribute 'key'
+2025-10-31 19:10:58,201 - INFO - New Ticket Found
+2025-10-31 19:10:58,201 - ERROR - Failed to show notification: 'str' object has no attribute 'key'
+2025-10-31 19:10:58,201 - INFO - New Ticket Found
+2025-10-31 19:10:58,201 - ERROR - Failed to show notification: 'str' object has no attribute 'key'
+2025-10-31 19:10:58,201 - INFO - New Ticket Found
+2025-10-31 19:10:58,201 - ERROR - Failed to show notification: 'str' object has no attribute 'key'
+2025-10-31 19:10:58,201 - INFO - New Ticket Found
+2025-10-31 19:10:58,201 - ERROR - Failed to show notification: 'str' object has no attribute 'key'
+2025-10-31 19:10:58,201 - INFO - New Ticket Found
+2025-10-31 19:10:58,201 - ERROR - Failed to show notification: 'str' object has no attribute 'key'
+2025-10-31 19:10:58,201 - INFO - New Ticket Found
+2025-10-31 19:10:58,201 - ERROR - Failed to show notification: 'str' object has no attribute 'key'
+2025-10-31 19:10:58,201 - INFO - New Ticket Found
+2025-10-31 19:10:58,201 - ERROR - Failed to show notification: 'str' object has no attribute 'key'
+2025-10-31 19:10:58,201 - INFO - New Ticket Found
+2025-10-31 19:10:58,201 - ERROR - Failed to show notification: 'str' object has no attribute 'key'
+2025-10-31 19:10:58,201 - INFO - New Ticket Found
+2025-10-31 19:10:58,201 - ERROR - Failed to show notification: 'str' object has no attribute 'key'
+2025-10-31 19:10:58,201 - INFO - New Ticket Found
+2025-10-31 19:11:46,326 - INFO - Connected to Jira
+2025-10-31 19:11:46,632 - INFO - 2 project members.
+2025-10-31 19:11:46,632 - INFO - Started monitoring for new tickets
+2025-10-31 19:11:48,083 - INFO - Total Tickets - 9
+2025-10-31 19:11:48,083 - INFO - Unassigned Tickets - 0
+2025-10-31 19:11:48,083 - INFO - Assigned Tickets - 8
+2025-10-31 19:11:48,083 - INFO - Closed Tickets - 0
+2025-10-31 19:11:48,083 - INFO - No unassinged tickets found.
+2025-10-31 19:11:48,268 - INFO - No resolved tickets left for more than 2 days
+2025-10-31 19:11:48,617 - ERROR - Failed to show notification: 'str' object has no attribute 'key'
+2025-10-31 19:11:48,617 - INFO - New Ticket Found
+2025-10-31 19:11:48,617 - ERROR - Failed to show notification: 'str' object has no attribute 'key'
+2025-10-31 19:11:48,617 - INFO - New Ticket Found
+2025-10-31 19:11:48,617 - ERROR - Failed to show notification: 'str' object has no attribute 'key'
+2025-10-31 19:11:48,617 - INFO - New Ticket Found
+2025-10-31 19:11:48,617 - ERROR - Failed to show notification: 'str' object has no attribute 'key'
+2025-10-31 19:11:48,617 - INFO - New Ticket Found
+2025-10-31 19:11:48,617 - ERROR - Failed to show notification: 'str' object has no attribute 'key'
+2025-10-31 19:11:48,617 - INFO - New Ticket Found
+2025-10-31 19:11:48,617 - ERROR - Failed to show notification: 'str' object has no attribute 'key'
+2025-10-31 19:11:48,617 - INFO - New Ticket Found
+2025-10-31 19:11:48,617 - ERROR - Failed to show notification: 'str' object has no attribute 'key'
+2025-10-31 19:11:48,617 - INFO - New Ticket Found
+2025-10-31 19:11:48,617 - ERROR - Failed to show notification: 'str' object has no attribute 'key'
+2025-10-31 19:11:48,617 - INFO - New Ticket Found
+2025-10-31 19:11:48,617 - ERROR - Failed to show notification: 'str' object has no attribute 'key'
+2025-10-31 19:11:48,617 - INFO - New Ticket Found
+2025-10-31 19:11:48,617 - ERROR - Failed to show notification: 'str' object has no attribute 'key'
+2025-10-31 19:11:48,617 - INFO - New Ticket Found
+2025-10-31 19:11:48,617 - ERROR - Failed to show notification: 'str' object has no attribute 'key'
+2025-10-31 19:11:48,617 - INFO - New Ticket Found
+2025-10-31 19:11:48,617 - ERROR - Failed to show notification: 'str' object has no attribute 'key'
+2025-10-31 19:11:48,617 - INFO - New Ticket Found
+2025-10-31 19:11:48,617 - ERROR - Failed to show notification: 'str' object has no attribute 'key'
+2025-10-31 19:11:48,617 - INFO - New Ticket Found
+2025-10-31 19:11:48,617 - ERROR - Failed to show notification: 'str' object has no attribute 'key'
+2025-10-31 19:11:48,617 - INFO - New Ticket Found
+2025-10-31 19:11:48,618 - ERROR - Failed to show notification: 'str' object has no attribute 'key'
+2025-10-31 19:11:48,618 - INFO - New Ticket Found
+2025-10-31 19:11:48,618 - ERROR - Failed to show notification: 'str' object has no attribute 'key'
+2025-10-31 19:11:48,618 - INFO - New Ticket Found
+2025-10-31 19:11:48,618 - ERROR - Failed to show notification: 'str' object has no attribute 'key'
+2025-10-31 19:11:48,618 - INFO - New Ticket Found
+2025-10-31 19:11:48,618 - ERROR - Failed to show notification: 'str' object has no attribute 'key'
+2025-10-31 19:11:48,618 - INFO - New Ticket Found
+2025-10-31 19:11:48,618 - ERROR - Failed to show notification: 'str' object has no attribute 'key'
+2025-10-31 19:11:48,618 - INFO - New Ticket Found
+2025-10-31 19:11:48,618 - ERROR - Failed to show notification: 'str' object has no attribute 'key'
+2025-10-31 19:11:48,618 - INFO - New Ticket Found
+2025-10-31 19:11:48,618 - ERROR - Failed to show notification: 'str' object has no attribute 'key'
+2025-10-31 19:11:48,618 - INFO - New Ticket Found
+2025-10-31 19:11:48,618 - ERROR - Failed to show notification: 'str' object has no attribute 'key'
+2025-10-31 19:11:48,618 - INFO - New Ticket Found
+2025-10-31 19:11:48,618 - ERROR - Failed to show notification: 'str' object has no attribute 'key'
+2025-10-31 19:11:48,618 - INFO - New Ticket Found
+2025-10-31 19:11:48,618 - ERROR - Failed to show notification: 'str' object has no attribute 'key'
+2025-10-31 19:11:48,618 - INFO - New Ticket Found
+2025-10-31 19:11:48,618 - ERROR - Failed to show notification: 'str' object has no attribute 'key'
+2025-10-31 19:11:48,618 - INFO - New Ticket Found
+2025-10-31 19:11:48,618 - ERROR - Failed to show notification: 'str' object has no attribute 'key'
+2025-10-31 19:11:48,618 - INFO - New Ticket Found
+2025-10-31 19:11:48,618 - ERROR - Failed to show notification: 'str' object has no attribute 'key'
+2025-10-31 19:11:48,618 - INFO - New Ticket Found
+2025-10-31 19:11:48,618 - ERROR - Failed to show notification: 'str' object has no attribute 'key'
+2025-10-31 19:11:48,618 - INFO - New Ticket Found
+2025-10-31 19:11:48,618 - ERROR - Failed to show notification: 'str' object has no attribute 'key'
+2025-10-31 19:11:48,618 - INFO - New Ticket Found
+2025-10-31 19:11:48,618 - ERROR - Failed to show notification: 'str' object has no attribute 'key'
+2025-10-31 19:11:48,618 - INFO - New Ticket Found
+2025-10-31 19:11:48,618 - ERROR - Failed to show notification: 'str' object has no attribute 'key'
+2025-10-31 19:11:48,618 - INFO - New Ticket Found
+2025-10-31 19:11:48,618 - ERROR - Failed to show notification: 'str' object has no attribute 'key'
+2025-10-31 19:11:48,618 - INFO - New Ticket Found
+2025-10-31 19:11:48,618 - ERROR - Failed to show notification: 'str' object has no attribute 'key'
+2025-10-31 19:11:48,618 - INFO - New Ticket Found
+2025-10-31 19:11:48,618 - ERROR - Failed to show notification: 'str' object has no attribute 'key'
+2025-10-31 19:11:48,618 - INFO - New Ticket Found
+2025-10-31 19:11:48,618 - ERROR - Failed to show notification: 'str' object has no attribute 'key'
+2025-10-31 19:11:48,618 - INFO - New Ticket Found
+2025-10-31 19:11:48,618 - ERROR - Failed to show notification: 'str' object has no attribute 'key'
+2025-10-31 19:11:48,618 - INFO - New Ticket Found
+2025-10-31 19:11:48,618 - ERROR - Failed to show notification: 'str' object has no attribute 'key'
+2025-10-31 19:11:48,619 - INFO - New Ticket Found
+2025-10-31 19:11:48,619 - ERROR - Failed to show notification: 'str' object has no attribute 'key'
+2025-10-31 19:11:48,619 - INFO - New Ticket Found
+2025-10-31 19:11:48,619 - ERROR - Failed to show notification: 'str' object has no attribute 'key'
+2025-10-31 19:11:48,619 - INFO - New Ticket Found
+2025-10-31 19:11:48,619 - ERROR - Failed to show notification: 'str' object has no attribute 'key'
+2025-10-31 19:11:48,619 - INFO - New Ticket Found
+2025-10-31 19:11:48,619 - ERROR - Failed to show notification: 'str' object has no attribute 'key'
+2025-10-31 19:11:48,619 - INFO - New Ticket Found
+2025-10-31 19:11:48,619 - ERROR - Failed to show notification: 'str' object has no attribute 'key'
+2025-10-31 19:11:48,619 - INFO - New Ticket Found
+2025-10-31 19:11:48,619 - ERROR - Failed to show notification: 'str' object has no attribute 'key'
+2025-10-31 19:11:48,619 - INFO - New Ticket Found
+2025-10-31 19:11:48,619 - ERROR - Failed to show notification: 'str' object has no attribute 'key'
+2025-10-31 19:11:48,619 - INFO - New Ticket Found
+2025-10-31 19:11:48,619 - ERROR - Failed to show notification: 'str' object has no attribute 'key'
+2025-10-31 19:11:48,619 - INFO - New Ticket Found
+2025-10-31 19:12:06,398 - INFO - Connected to Jira
+2025-10-31 19:12:06,704 - INFO - 2 project members.
+2025-10-31 19:12:06,704 - INFO - Started monitoring for new tickets
+2025-10-31 19:12:08,126 - INFO - Total Tickets - 9
+2025-10-31 19:12:08,126 - INFO - Unassigned Tickets - 0
+2025-10-31 19:12:08,126 - INFO - Assigned Tickets - 8
+2025-10-31 19:12:08,126 - INFO - Closed Tickets - 0
+2025-10-31 19:12:08,126 - INFO - No unassinged tickets found.
+2025-10-31 19:12:08,323 - INFO - No resolved tickets left for more than 2 days
+2025-10-31 19:13:00,883 - INFO - Connected to Jira
+2025-10-31 19:13:01,105 - INFO - 2 project members.
+2025-10-31 19:13:01,106 - INFO - Started monitoring for new tickets
+2025-10-31 19:13:02,621 - INFO - Total Tickets - 9
+2025-10-31 19:13:02,621 - INFO - Unassigned Tickets - 0
+2025-10-31 19:13:02,621 - INFO - Assigned Tickets - 8
+2025-10-31 19:13:02,621 - INFO - Closed Tickets - 0
+2025-10-31 19:13:02,621 - INFO - No unassinged tickets found.
+2025-10-31 19:13:02,799 - INFO - No resolved tickets left for more than 2 days
+2025-10-31 19:13:03,403 - ERROR - Error checking for new tickets: name 'ticket' is not defined
+2025-10-31 19:13:16,139 - INFO - Connected to Jira
+2025-10-31 19:13:16,386 - INFO - 2 project members.
+2025-10-31 19:13:16,387 - INFO - Started monitoring for new tickets
+2025-10-31 19:13:17,940 - INFO - Total Tickets - 9
+2025-10-31 19:13:17,940 - INFO - Unassigned Tickets - 0
+2025-10-31 19:13:17,940 - INFO - Assigned Tickets - 8
+2025-10-31 19:13:17,940 - INFO - Closed Tickets - 0
+2025-10-31 19:13:17,940 - INFO - No unassinged tickets found.
+2025-10-31 19:13:18,139 - INFO - No resolved tickets left for more than 2 days
+2025-10-31 19:14:18,708 - INFO - Started monitoring for new tickets
+2025-10-31 19:14:20,338 - INFO - Total Tickets - 10
+2025-10-31 19:14:20,338 - INFO - Unassigned Tickets - 1
+2025-10-31 19:14:20,338 - INFO - Assigned Tickets - 8
+2025-10-31 19:14:20,340 - INFO - Closed Tickets - 0
+2025-10-31 19:14:21,992 - INFO - Assigned SUP-41 to Jomi
+2025-10-31 19:14:22,299 - INFO - Notification sent SUP-41
+2025-10-31 19:14:22,300 - INFO - New Ticket Found
+2025-10-31 19:15:22,321 - INFO - Started monitoring for new tickets
+2025-10-31 19:15:23,394 - INFO - Total Tickets - 10
+2025-10-31 19:15:23,395 - INFO - Unassigned Tickets - 0
+2025-10-31 19:15:23,395 - INFO - Assigned Tickets - 9
+2025-10-31 19:15:23,396 - INFO - Closed Tickets - 0
+2025-10-31 19:15:23,396 - INFO - No unassinged tickets found.
+2025-10-31 19:16:23,585 - INFO - Started monitoring for new tickets
+2025-10-31 19:16:24,801 - INFO - Total Tickets - 10
+2025-10-31 19:16:24,801 - INFO - Unassigned Tickets - 0
+2025-10-31 19:16:24,802 - INFO - Assigned Tickets - 9
+2025-10-31 19:16:24,803 - INFO - Closed Tickets - 0
+2025-10-31 19:16:24,806 - INFO - No unassinged tickets found.
+2025-10-31 19:17:25,064 - INFO - Started monitoring for new tickets
+2025-10-31 19:17:26,189 - INFO - Total Tickets - 10
+2025-10-31 19:17:26,189 - INFO - Unassigned Tickets - 0
+2025-10-31 19:17:26,190 - INFO - Assigned Tickets - 9
+2025-10-31 19:17:26,191 - INFO - Closed Tickets - 0
+2025-10-31 19:17:26,192 - INFO - No unassinged tickets found.
+2025-10-31 19:18:26,431 - INFO - Started monitoring for new tickets
+2025-10-31 19:18:27,844 - INFO - Total Tickets - 10
+2025-10-31 19:18:27,844 - INFO - Unassigned Tickets - 0
+2025-10-31 19:18:27,845 - INFO - Assigned Tickets - 9
+2025-10-31 19:18:27,846 - INFO - Closed Tickets - 0
+2025-10-31 19:18:27,850 - INFO - No unassinged tickets found.
+2025-10-31 19:19:28,113 - INFO - Started monitoring for new tickets
+2025-10-31 19:19:29,397 - INFO - Total Tickets - 10
+2025-10-31 19:19:29,398 - INFO - Unassigned Tickets - 0
+2025-10-31 19:19:29,399 - INFO - Assigned Tickets - 9
+2025-10-31 19:19:29,403 - INFO - Closed Tickets - 0
+2025-10-31 19:19:29,408 - INFO - No unassinged tickets found.
+2025-10-31 19:20:29,611 - INFO - Started monitoring for new tickets
+2025-10-31 19:20:30,778 - INFO - Total Tickets - 10
+2025-10-31 19:20:30,778 - INFO - Unassigned Tickets - 0
+2025-10-31 19:20:30,779 - INFO - Assigned Tickets - 9
+2025-10-31 19:20:30,780 - INFO - Closed Tickets - 0
+2025-10-31 19:20:30,784 - INFO - No unassinged tickets found.
+2025-10-31 19:21:31,007 - INFO - Started monitoring for new tickets
+2025-10-31 19:21:32,269 - INFO - Total Tickets - 10
+2025-10-31 19:21:32,269 - INFO - Unassigned Tickets - 0
+2025-10-31 19:21:32,270 - INFO - Assigned Tickets - 9
+2025-10-31 19:21:32,270 - INFO - Closed Tickets - 0
+2025-10-31 19:21:32,274 - INFO - No unassinged tickets found.
+2025-10-31 19:22:32,511 - INFO - Started monitoring for new tickets
+2025-10-31 19:22:34,225 - INFO - Total Tickets - 10
+2025-10-31 19:22:34,226 - INFO - Unassigned Tickets - 0
+2025-10-31 19:22:34,226 - INFO - Assigned Tickets - 9
+2025-10-31 19:22:34,227 - INFO - Closed Tickets - 0
+2025-10-31 19:22:34,232 - INFO - No unassinged tickets found.

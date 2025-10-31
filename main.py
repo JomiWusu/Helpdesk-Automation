@@ -9,6 +9,7 @@ import json
 from customtkinter import *
 import threading
 from tkinter import messagebox
+from win10toast import ToastNotifier
 
 logging.basicConfig(
     filename = "jira_log",
@@ -43,121 +44,13 @@ except Exception as e:
 proj_key = "SUP"
 members = []
 
-
-'''
-
-def remind_old_tickets(jira):
-    try:
-        #Searches for tickets that are not closed/resolved
-        jquery = f'project={proj_key} AND status not in (Resolved, Closed)'
-        tickets = jira.search_issues(jquery)
-
-        for ticket in tickets:
-            #Gets the time of when the ticket was last updated
-            last_updated_ticket = datetime.strptime(ticket.fields.updated[:19], "%Y-%m-%dT%H:%M:%S")
-            new_ts = last_updated_ticket.strftime("%Y-%m-%d %H:%M:%S")
-
-            #If the time of when the ticket was last updated is over 24 Hours remind assignee
-            if datetime.now() - last_updated_ticket > timedelta(hours=24):
-                #Gets ticket assignee email address and sends reminder email
-                user = jira_connect.user(f"{ticket.fields.assignee.accountId}")
-                reciever_email = next((member["email"] for member in members if user.accountId == member["id"]), None)
-                subject = f"Reminder for ticket {ticket.key}. Last updated {last_updated_ticket}."
-                body = (
-                    f"{ticket.fields.summary} has been not recently updated for 24 hours or more please attend."
-                    f"{jira_connect.server_url}/browse/{ticket.key} Please update!"
-                )
-                send_email(reciever_email, subject, body)
-                jira.add_comment(ticket, "Ticket has been inactive for over 24 hours. Please attend")
-                logging.info(f"Sent email/added reminder to ticket{ticket.key}")
-
-    except Exception as e:
-        logging.error(f"Error sending old ticket reminders: {e}")
-        
-def send_weekly_analytics(jira, proj_key):
-    
-    monday_date = datetime.now() - timedelta(days = 6)
-    sunday_date = datetime.now() + timedelta(days=1)
-    monday_date = monday_date.strftime("%Y-%m-%d")
-    sunday_date = sunday_date.strftime("%Y-%m-%d")
-
-    logging.info("Generating Weekly Report")
-    #list of unassigned tickets, resolved tickets, created tickets
-    tickets_resolved = jira_connect.search_issues(f'project={proj_key} AND statusCategory = done AND created  >= "{monday_date}" AND created <= {sunday_date} ')
-    tickets_created = jira_connect.search_issues(f'project={proj_key} AND created >= "{monday_date}" AND created <= "{sunday_date}"')
-    tickets_opened = jira_connect.search_issues(f'project={proj_key} AND status != Done')
-
-    #Create subject and body
-    subject = f"{proj_key} Weekly ticket summary {monday_date} -> {sunday_date}"
-    lines = [
-        f"Tickets created: {len(tickets_created)}\n",
-        f"Tickets Resolved: {len(tickets_resolved)}\n",
-        f"Tickets Open: {len(tickets_opened)}\n"
-    ]
-    
-    lines.append("Ticket Summary")
-
-    for ticket in tickets_created:
-        lines.append(f"- {ticket.key}: {ticket.fields.summary} (Created: {ticket.fields.created})")
-
-    #Joins each string in list and adds a new line
-    body = "\n".join(lines)
-    logging.info("Sent weekly email report")
-
-    send_email("wusujomi1@gmail.com", subject, body)
-
-def create_test_tickets(jira, proj_key):
-    try:
-        summaries = [
-            "Urgent: Server down in production",
-            "User request: Need password reset",
-            "Bug: Application error when submitting form"
-        ]
-        descriptions = [
-            "The production server is not responding since 2AM. Needs immediate attention.",
-            "User cannot log in; password reset link not working properly.",
-            "Error 500 occurs when users submit the signup form."
-        ]
-
-        created_issues = []
-
-        for i in range(3):
-            issue_dict = {
-                'project': {'key': proj_key},
-                'summary': summaries[i],
-                'description': descriptions[i],
-                'issuetype': {'name': 'Task'},   # You can change this to 'Bug', 'Incident', etc.
-            }
-            new_issue = jira.create_issue(fields=issue_dict)
-            created_issues.append(new_issue)
-            print(f"✅ Created issue: {new_issue.key} - {summaries[i]}")
-        
-        return created_issues
-
-    except Exception as e:
-        print(f"❌ Failed to create test tickets: {e}")
-
-#create_test_tickets(jira_connect, proj_key)
-time.sleep(5)
-
-try:
-
-    #close_resolved_tickets_auto(jira_connect)
-    #remind_old_tickets(jira_connect)
-
-    #Scheduler
-    send_weekly_analytics(jira_connect, proj_key)
-    schedule.every().day.at("09:00").do(remind_old_tickets, jira_connect)
-except Exception as e:
-    logging.critical(f"Main program error: {e}")
-
-   '''
 class jiraDash:
     def __init__(self, root):
         self.root = root
         self.root.title("Jira Dashboard")
         self.root.geometry("720x480")
         set_appearance_mode("Light")
+        self.toaster = ToastNotifier()
 
         #Connecting to jira/gathering members
         self.jira_connect = None
@@ -172,13 +65,18 @@ class jiraDash:
         self.logging()
         self.connect_jira()
         self.ticket_monitoring()
-        self.start_schedule()
         self.close_resolved_tickets_auto()
+        self.remind_old_tickets()
+        self.check_tickets()
+        self.start_schedule()
 
     def start_schedule(self):
         #every 60s
         schedule.every(60).seconds.do(self.ticket_monitoring)
-        schedule.every(1).hour.do(lambda:self.run_in_thread(self.close_resolved_tickets_auto))
+        schedule.every(1).hour.do(self.close_resolved_tickets_auto)
+        schedule.every(1).hour.do(self.remind_old_tickets)
+        schedule.every().sunday.at("00:00").do(self.send_weekly_analytics)
+        schedule.every(1).minutes.do(self.check_tickets)
 
         #Run in thread so gui is responsive
         threading.Thread(target=self.schedule_loop, daemon=True).start()
@@ -191,7 +89,7 @@ class jiraDash:
 
     def ui_create(self):
         #Create widget that contains
-        self.top = CTkFrame(root, fg_color="white")
+        self.top = CTkFrame(root, fg_color="white", width=500)
         self.top.pack(side="top", fill="x")
         
         self.left = CTkFrame(root, fg_color="white", width = 400)
@@ -214,25 +112,26 @@ class jiraDash:
             "height": 50
         }
         
-        # CTK label for the background top left
-        self.logo_label = CTkLabel(
-            self.top, 
-            width=100, 
-            height=50, 
-            bg_color="white", 
-            fg_color="white", 
-            text="")            
-        self.logo_label.pack(side="left", padx=0, pady=0)
 
-        # Add white text
-        self.logo_text = CTkLabel(self.logo_label, text="Dashboard", font=("Arial", 16, "bold"), text_color="black")
-        self.logo_text.place(relx=0.5, rely=0.5, anchor="center")  # Center the text
+        # Left section of top bar (Dashboard text)
+        self.dash_label = CTkLabel(self.top, text="Dashboard", font=("Arial", 16, "bold"), text_color="black")
+        self.dash_label.pack(side="left", padx=20, pady=10)
 
+        # Right section of top bar (Project key)
+        self.project_label = CTkLabel(self.top, text=f"Project - {proj_key}", font=("Arial", 16, "bold"), text_color="black")
+        self.project_label.pack(side="right", padx=20, pady=10)
+        
         #Create buttons using custom style
         self.close_btn = CTkButton(self.left, text="Ticket Overview",  command=lambda: self.run_in_thread(self.gather_tickets), **css_style)
         self.close_btn.pack(pady=10, padx=10)
 
         self.close_btn = CTkButton(self.left, text="Set resolved tickets to closed",  command=lambda: self.run_in_thread(self.close_resolved_tickets_auto), **css_style)
+        self.close_btn.pack(pady=10, padx=10)
+
+        self.close_btn = CTkButton(self.left, text="Assign Unassigned Tickets",  command=lambda: self.run_in_thread(self.ticket_monitoring), **css_style)
+        self.close_btn.pack(pady=10, padx=10)
+
+        self.close_btn = CTkButton(self.left, text="Remind old tickets",  command=lambda: self.run_in_thread(self.remind_old_tickets), **css_style)
         self.close_btn.pack(pady=10, padx=10)
     
     def logging(self):
@@ -350,6 +249,33 @@ class jiraDash:
         except Exception as e:
             logging.error(f"Error sending email {e}")
     
+    def remind_old_tickets(self):
+        try:
+            #Searches for tickets that are not closed/resolved
+            jquery = f'project={proj_key} AND status not in (Resolved, Closed)'
+            tickets = self.jira_connect.search_issues(jquery)
+
+            for ticket in tickets:
+                #Gets the time of when the ticket was last updated
+                last_updated_ticket = datetime.strptime(ticket.fields.updated[:19], "%Y-%m-%dT%H:%M:%S")
+
+                #If the time of when the ticket was last updated is over 24 Hours remind assignee
+                if datetime.now() - last_updated_ticket > timedelta(hours=24):
+                    #Gets ticket assignee email address and sends reminder email
+                    user = self.jira_connect.user(f"{ticket.fields.assignee.accountId}")
+                    reciever_email = next((member["email"] for member in self.members if user.accountId == member["id"]), None)
+                    subject = f"Reminder for ticket {ticket.key}. Last updated {last_updated_ticket}."
+                    body = (
+                        f"{ticket.fields.summary} has been not recently updated for 24 hours or more please attend."
+                        f"{self.jira_connect.server_url}/browse/{ticket.key} Please update!"
+                    )
+                    self.send_email(reciever_email, subject, body)
+                    self.jira_connect.add_comment(ticket, "Ticket has been inactive for over 24 hours. Please attend")
+                    logging.info(f"Sent email/added reminder to ticket{ticket.key}")
+
+        except Exception as e:
+            logging.error(f"Error sending old ticket reminders: {e}")
+    
     def close_resolved_tickets_auto(self):
         try:
             #Jquery to check if the ticket is resolved or not
@@ -389,7 +315,63 @@ class jiraDash:
                 logging.info("No resolved tickets left for more than 2 days")
         except Exception as e:
             logging.error(f"Error closing resolved tickets: {e}")
-                
+        
+    def send_weekly_analytics(self):
+    
+        sunday_date = datetime.now()
+        monday_date = sunday_date - timedelta(days=6)
+        monday_date = monday_date.strftime("%Y-%m-%d")
+        sunday_date = sunday_date.strftime("%Y-%m-%d")
+
+        logging.info("Generating Weekly Report")
+        #list of unassigned tickets, resolved tickets, created tickets
+        tickets_resolved = self.jira_connect.search_issues(f'project={proj_key} AND statusCategory = done AND created  >= "{monday_date}" AND created <= {sunday_date} ')
+        tickets_created = self.jira_connect.search_issues(f'project={proj_key} AND created >= "{monday_date}" AND created <= "{sunday_date}"')
+        tickets_opened = self.jira_connect.search_issues(f'project={proj_key} AND status != Done')
+
+        #Create subject and body
+        subject = f"{proj_key} Weekly ticket summary {monday_date} -> {sunday_date}"
+        lines = [
+            f"Tickets created: {len(tickets_created)}\n",
+            f"Tickets Resolved: {len(tickets_resolved)}\n",
+            f"Tickets Open: {len(tickets_opened)}\n"
+        ]
+        
+        lines.append("Ticket Summary")
+
+        for ticket in tickets_created:
+            lines.append(f"- {ticket.key}: {ticket.fields.summary} (Created: {ticket.fields.created})")
+
+        #Joins each string in list and adds a new line
+        body = "\n".join(lines)
+        logging.info("Sent weekly email report")
+
+        self.send_email("wusujomi1@gmail.com", subject, body)
+
+    def check_tickets(self):
+        try:
+            #Show Tickets a minute ago since scheduler runs every minute
+            min_ago = (datetime.now() - timedelta(minutes=1)).strftime("%Y-%m-%d %H:%M")
+            #Find newly created tickets
+            jq = f'project={proj_key} AND created >= "{min_ago}"'
+            tickets = self.jira_connect.search_issues(jq)
+
+            for ticket in tickets:
+                self.ticket_noti(ticket)
+                logging.info(f"New Ticket Found")
+        
+        except Exception as e:
+            logging.error(f"Error checking for new tickets: {e}")
+
+    def ticket_noti(self, ticket):
+        try:
+            #Sending Windows Notifcation for 6 seconds
+            title = f"(NEW) Ticket: {ticket.key}"
+            summary = f"Ticket: {ticket.key} Summary - {ticket.fields.summary}" or "No Summary"
+            self.toaster.show_toast(title, summary, duration=6, threaded=True)
+            logging.info(f"Notification sent {ticket.key}")
+        except Exception as e:
+            logging.error(f"Failed to show notification: {e}")        
     
     def run_in_thread(self, func):
         threading.Thread(target=func).start()
