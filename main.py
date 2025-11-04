@@ -20,15 +20,15 @@ logging.basicConfig(
 )
 
 #Variables to connect to jira api
-email = "wusujomi1@gmail.com"
-token = "ATATT3xFfGF0YCpR4jyAHN4lA0Ly6fx_9xihlB_OlU31yBx3-r2rzbLMET-dBBMLln_mPLwf9I4NRpAUoRuAY6QeCq812ArwysLc2nMvvVj8HQSwxsg--c5fm1AYuZ3DTQmvT82GOa8wp7idMawzfPWoauCQAohl62iaBNFV-jLsFWfpBAiDn48=065AACE1"
-url = "https://wusujomi1.atlassian.net"
+email = ""
+token = ""
+url = ""
 
 #Email Settings
 email_server = "smtp.gmail.com"
-email_port = 587
-email_sender = "wusujomi1@gmail.com"
-email_pass = "ycjq glot uttr yyjc"
+email_port = 
+email_sender = ""
+email_pass = ""
 
 try:
 
@@ -41,7 +41,7 @@ except Exception as e:
     raise
 
 #Project Key/Members
-proj_key = "SUP"
+proj_key = ""
 members = []
 
 class jiraDash:
